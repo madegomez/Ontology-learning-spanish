@@ -1,1 +1,1 @@
-# Ontology_learning_spanish
+# Ontology-learning-spanish
