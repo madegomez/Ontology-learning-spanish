@@ -1,0 +1,6176 @@
+0 violencia sexual
+1 conflicto armar
+2 acuerdo paz colombia
+3 mujer victima
+4 organizacion nacion unir
+5 marco conflicto armar
+6 desplazamiento forzar
+7 nacion unir
+8 comite internacional cruz rojo
+9 enfoque genero
+10 violencia mujer
+11 violencia sexual conflicto
+12 sector lgbti
+13 grupo armar
+14 fiscalia general nacion
+15 afrodecendiente
+16 registro unico victima
+17 actor armar
+18 persona refugiar
+19 construccion paz
+20 jurisdiccion especial paz
+21 mesa mujer paz seguridad
+22 proceso paz
+23 violacion derecho humano
+24 presidente republica
+25 mujer victima conflicto armar
+26 bloque vencedor arauca
+27 defensor derecho humano
+28 implementacion acuerdo paz colombia
+29 reparacion integral
+30 cnmh
+31 corporacion casa mujer
+32 derecho humano
+33 contexto conflicto armar
+34 ruta pacifico mujer
+35 mujer desplazar
+36 fuerza publico
+37 junto accion comunal
+38 lider social
+39 organizacion mujer
+40 implementacion acuerdo paz
+41 victima conflicto armar
+42 derecho mujer
+43 autodefensa unir colombia
+44 corte constitucional colombia
+45 grupo paramilitar
+46 sistema justicia transicional
+47 desplazamiento interno
+48 defensoria pueblo
+49 instituto nacional medicina legal ciencia forense
+50 violencia genero
+51 politica publico
+52 corporacion sisma mujer
+53 programa nacion unir desarrollo
+54 ley victima restitucion tierra
+55 victima desplazamiento forzar
+56 justicia transicional
+57 construccion paz estable
+58 gobierno nacional
+59 norte santander
+60 identidad genero
+61 comision interamericano derecho humano
+62 medida reparacion
+63 consejeria presidencial equidad mujer
+64 derecho victima
+65 corte penal internacional
+66 poblacion civil
+67 vida libre violencia
+68 victimizar
+69 operacion orion
+70 grupo armar ilegal
+71 frente domingo lain saenz
+72 desplazar interno
+73 valle cauca
+74 presencia grupo armar
+75 organizacion social
+76 enfoque diferencial
+77 acceso carnal violento
+78 organizacion gubernamental
+79 desplazamiento forzar interno
+80 corporacion humano
+81 mujer indigena
+82 victima desplazamiento
+83 autodefensa gaitanistas colombia
+84 mujer colombiano
+85 fundacion idea paz
+86 instituto nacional medicina legal
+87 sociedad civil
+88 consultoria derecho humano desplazamiento
+89 unidad atencion reparacion integral victimar
+90 economia ilegal
+91 observatorio paz reconciliacion oriente antioqueno
+92 restitucion tierra
+93 zona rural
+94 derecho mujer victima
+95 gobierno colombia
+96 poblacion desplazar
+97 guerra inscribir
+98 secretario general
+99 proyecto productivo
+100 desaparicion forzar
+101 verdad justicia reparacion
+102 garantia repeticion
+103 actor armar ilegal
+104 perspectiva genero
+105 reparacion victima
+106 cultivo ilicito
+107 cuerpo mujer
+108 acoso sexual
+109 paz sostenible
+110 acompanamiento psicosocial
+111 persona desplazar
+112 presunto delito sexual
+113 espacio territorial capacitacion
+114 mujer
+115 alerta temprano
+116 mujer excombatiente
+117 dejacion arma
+118 actor conflicto
+119 proyecto vida
+120 mujer defensor
+121 revictimizacion
+122 comunidad indigena
+123 mujer sobreviviente
+124 grupo guerrillero
+125 marco conflicto
+126 alianza solidaridad
+127 asociacion campesino valle rio cimitarra
+128 juntanza mujer conectar paz
+129 abuso sexual
+130 disidencia farc
+131 sistema integral verdad justicia reparacion repeticion
+132 justicia paz
+133 defensa derecho humano
+134 lider social asesinar
+135 infraccion derecho internacional humanitario
+136 servicio domestico forzar
+137 mujer victima conflicto
+138 cumbre nacional mujer paz
+139 paro armar
+140 organizacion estado americano
+141 observatorio memoria conflicto
+142 posconflicto
+143 agencia colombia reintegracion
+144 lideresas social
+145 fuerza tarea quiron
+146 victima conflicto
+147 consejo seguridad nacion unir
+148 justicia ordinario
+149 sustitucion cultivo ilicito
+150 unidad nacional proteccion
+151 integridad sexual
+152 fundacion observatorio paz reconciliacion oriente antioqueno
+153 justicia especial paz paz
+154 incursion paramilitar
+155 alto comisionado paz
+156 mayoria mujer
+157 procuraduria general nacion
+158 reclutamiento forzar
+159 participacion politico
+160 marina gallego
+161 garantia derecho
+162 derecho verdad
+163 convencion eliminacion forma violencia mujer
+164 acceso justicia
+165 pueblo indigena
+166 consecuencia conflicto armar
+167 violencia basar genero
+168 corporacion arcoiris
+169 ideologia genero
+170 hijo hijo
+171 derecho internacional humanitario
+172 puerto colon
+173 jineth bedoya
+174 reconstruir tejido social
+175 yolanda perea
+176 exguerrilleros
+177 condicion vulnerabilidad
+178 reparacion colectivo
+179 mujer campesino
+180 medida proteccion
+181 alto comisionado paz nacion unir derecho humano
+182 maria ruth bonilla gaitan
+183 grupo armar legal ilegal
+184 crimen leso humanidad
+185 excombatiente farc
+186 ruta pacifico
+187 instituto colombia bienestar familiar
+188 condicion victima
+189 desigualdad estructural
+190 control territorial
+191 fin guerra
+192 comunidad internacional
+193 zona conflicto
+194 victima violencia
+195 dialogo paz
+196 desmovilizacion desarme reintegracion
+197 derecho humano mujer
+198 red mujer
+199 mujer constructor
+200 revictimizar
+201 subregistro
+202 cese fuego
+203 participacion victima
+204 parir hijo guerra
+205 garantizar acceso justicia
+206 desplazamiento masivo
+207 esclarecimiento verdad
+208 cese bilateral fuego
+209 jesus santrich
+210 discriminacion mujer
+211 programa crecer junto
+212 cese fuego bilateral
+213 defensa tierra territorio
+214 proceso justicia paz
+215 verdad justicia reparacion garantia repeticion
+216 disidente farc
+217 ministerio defensa nacional
+218 victoria sandino
+219 posacuerdo
+220 situacion vulnerabilidad
+221 filippo grandi
+222 aborto forzar
+223 unidad busqueda persona desaparecer
+224 esclavitud sexual
+225 mujer joven
+226 embarazo forzar
+227 mesa negociacion
+228 instancia especial
+229 programa desarrollo enfoque territorial
+230 asociacion nacional usuario campesino
+231 acto violencia
+232 tema violencia sexual
+233 violencia marco conflicto armar
+234 comision nacional reparacion reconciliacion grupo memoria historico
+235 vida social
+236 declaracion universal derecho humano
+237 delito integridad sexual
+238 costa pacifico
+239 alto nivel
+240 fuerza armar
+241 joel sierra
+242 agente cambio
+243 dialogo regional
+244 bacrim
+245 perdida bien mueble inmueble
+246 centro oriente colombia
+247 condicion vida
+248 ley justicia paz
+249 tejido social
+250 esterilizacion forzar
+251 excandidata presidencial
+252 igualdad genero
+253 atencion integral
+254 violacion derecho
+255 adriana benjumea
+256 sala reconocimiento verdad
+257 victima desaparicion forzar
+258 amnistia internacional
+259 clan golfo
+260 mesa conversacion
+261 reforma rural integral
+262 proceso acompanamiento
+263 equidad genero
+264 coalicion vinculacion nino nino joven
+265 organizacion nacional indigena colombia
+266 cumbre mujer paz
+267 fuerza seguridad
+268 mujer violentar
+269 paz justicia social
+270 nucleo familiar
+271 mujer rural
+272 banda criminal
+273 crimen guerra
+274 efecto conflicto
+275 mesa dialogo
+276 territorio nacional
+277 estar
+278 transicionalidad
+279 crisis humanitario
+280 papel mujer
+281 federacion democratico internacional mujer
+282 servicio jesuita persona refugiar
+283 sociedad colombia
+284 uraba antioqueno
+285 fuerza militar
+286 proceso comunidad negro
+287 delito sexual
+288 negociacion paz
+289 victima sobreviviente
+290 colombia
+291 rol mujer
+292 desnudez forzar
+293 empoderar mujer
+294 proteccion mujer
+295 crimen sexual
+296 vida civil
+297 ejercito nacional
+298 indemnizacion administrativo
+299 goce efectivo
+300 ingrid betancourt
+301 ministerio interior
+302 espacio publico
+303 impacto humanitario
+304 csivi
+305 vereda cravo charo
+306 organizacion derecho humano
+307 mujer violar
+308 mayerlis angarita
+309 ariel avila
+310 grupo poblacional
+311 acompanamiento psicologico
+312 lider comunitario
+313 aguacate hass
+314 delito leso humanidad
+315 zona reserva campesino
+316 familia desplazar
+317 desescalamiento conflicto
+318 cifra alarmante
+319 victima
+320 rosa emilia salamanca
+321 explotacion sexual
+322 unidad restitucion tierra
+323 confrontacion armar
+324 grupo armar posdesmovilizacion
+325 construir paz
+326 consejeria consejeria presidencial consejeria presidencial equidad mujer
+327 embajada suecia
+328 jineth bedoya lima
+329 incorporacion enfoque genero
+330 mesa negociacion habano
+331 falta voluntad politico
+332 iniciativa mujer paz
+333 comision verdad
+334 asociacion campesino catatumbo
+335 mina terrestre antipersonal
+336 sistema nacional atencion integral poblacion desplazar
+337 brigada ejercito nacional
+338 implementacion proceso paz
+339 arma guerra
+340 policia nacional
+341 nivel nacional
+342 ano
+343 cese bilateral
+344 practica habitual
+345 estado unir
+346 asociacion juvenil estudiantil regional
+347 lideresa
+348 sijin
+349 jozef merkx
+350 apccolombia
+351 caparrapos
+352 organizacion internacional migracion
+353 defensor pueblo
+354 corporacion regional defensa derecho humano
+355 coordinador cultivador coca amapola marihuana
+356 empoderamiento mujer
+357 zona vereda
+358 jefe hogar
+359 desplazamiento forzoso
+360 salida negociar conflicto
+361 prostitucion forzar
+362 proceso toma decision
+363 ban kimoon
+364 trabajar fortalecimiento
+365 asociacion mujer departamento arauca
+366 limpal colombia
+367 violacion derecho internacional humanitario
+368 cano temblador
+369 junto accion local
+370 territorio colectivo
+371 organizacion sociedad civil
+372 beneficio mujer equidad genero
+373 derecho vida
+374 sur bolivar
+375 violencia sufrir
+376 acceso verdad
+377 autoridad etnico
+378 mesa nacional
+379 homicidio selectivo
+380 verificacion acuerdo paz colombia
+381 isabel caballero
+382 raul munoz
+383 multitudinario marcha
+384 pais
+385 poder
+386 victima violencia sexual mujer
+387 yira medina
+388 plan accion transformacion regional
+389 katherine ronderos
+390 registro unico poblacion desplazar
+391 triple discriminacion
+392 acto terrorista
+393 subcomision genero
+394 masacre naya
+395 conflicto arauca
+396 iniciativa productivo
+397 acoso amenaza
+398 desmovilizacion autodefensa
+399 violencia economico
+400 respuesta institucional
+401 violencia fisico
+402 violencia politico
+403 minoria etnico
+404 derecho internacional
+405 nestor humberto martinez
+406 gaitanistas
+407 guerrilla eln
+408 violencia intrafamiliar
+409 superar conflicto armar
+410 violencia pareja
+411 farc
+412 luis carlos sanchez
+413 cultivo coca
+414 comision colombia jurista
+415 marco normativo
+416 voluntad politico
+417 participacion activo
+418 territorio colombia
+419 premio nacional paz
+420 escuadron movil antidisturbios
+421 secretaria mujer
+422 mision observacion electoral
+423 maria eugenia cruz
+424 negociacion gobierno farc
+425 reforma rural
+426 mujer mayor
+427 paz
+428 accidente mina antipersonal
+429 plan nacional accion
+430 consejo comunitario mayor
+431 carlos antonio acosta
+432 organizacion guerrillero
+433 sistema registro unificar caso violencia mujer
+434 agresion sexual
+435 botin guerra
+436 riesgo violencia
+437 inclusion mujer
+438 gas efecto invernadero
+439 comunidad campesino
+440 calidad vida
+441 paramilitar desmovilizar
+442 igualdad oportunidad
+443 poblacion indigena
+444 desplazar violencia
+445 amenaza muerte
+446 accion armar
+447 lenguaje incluyente
+448 lucha mujer
+449 organizacion defensor derecho humano
+450 victima registrar
+451 cabeza familia
+452 defensa territorio
+453 salida politico conflicto
+454 vida cotidiano
+455 victima abuso sexual
+456 benkos bioho
+457 partido politico
+458 movimiento social
+459 trabajador sexual
+460 vichada
+461 afectacion diferencial
+462 proceso comunitario
+463 exguerrilla
+464 indepaz
+465 amnistiables
+466 chocue
+467 liderazgo femenino
+468 autoridad colombiano
+469 recuperacion emocional
+470 microtrafico
+471 jefatura femenino
+472 delito politico
+473 estar colombia
+474 asodesba
+475 jean arnault
+476 raul rosende
+477 recomendacion csivi
+478 denuncia extorsion
+479 diana rodriguez
+480 visibilizar
+481 empoderamiento politico
+482 impacto diferenciar
+483 implementacion normativa
+484 vulnerabilidad especifico
+485 responsabilidad estado
+486 natalia poveda
+487 puerto antioquia
+488 estandar internacional
+489 politica economico social
+490 movimiento politico
+491 frank pearl
+492 confinamiento forzar
+493 proceso implementacion
+494 derecho internacional derecho humano
+495 caso
+496 papel mujer sociedad
+497 alvaro uribe
+498 enfrentamiento armar
+499 fortul
+500 atencion diferencial
+501 sergio jaramillo
+502 zona urbano
+503 liderazgo mujer
+504 base militar
+505 proceso colectivo
+506 crimen genero
+507 saravena
+508 circunscripcion paz
+509 delito mujer
+510 permitir violencia
+511 conflictividad armar
+512 garantia participacion
+513 paramilitar matar
+514 colaborador guerrilla
+515 estructura paramilitar
+516 pacto comunitario
+517 juanita leon
+518 cauca antioqueno
+519 limpieza social
+520 salud mental
+521 persona afectar
+522 asociacion nacional zona reserva campesino
+523 falta recurso capacidad institucion judicial
+524 exguerrillero
+525 ayuda humanitario
+526 violencia estructural
+527 alto baudo
+528 golpear violencia
+529 vicente arroyo universidad popular cesar
+530 deber
+531 federacion sindical unitario trabajador agro
+532 fila guerrilla
+533 defender paz
+534 despojo tierra
+535 bloque calima
+536 vida digno
+537 equipo negociador
+538 sistema alerta temprano
+539 mujer combatiente
+540 ivan duque
+541 campo colombia
+542 mujer negro
+543 ministerio agricultura desarrollo rural
+544 arauca
+545 relacion desigual poder
+546 presencia estado
+547 violencia
+548 mercado laboral
+549 acto legislativo
+550 trabajador social
+551 fuego cruzar
+552 guillermo leon valencia
+553 reclutamiento menor
+554 proceso retorno
+555 sistema informacion judicial fiscalia
+556 oferta institucional
+557 derecho fundamental
+558 participar politica
+559 ataque poblacion civil
+560 division ejercito nacional
+561 estrategia supervivencia
+562 sujeto politico
+563 justicia social
+564 santo marta
+565 erradicar violencia
+566 libre violencia
+567 dinamica conflicto armar arauca
+568 circunscripcion especial
+569 arma fuego
+570 interes economico
+571 unidad busqueda persona desaparecido
+572 area rural
+573 centro acercamiento reparacion reconciliacion
+574 violencia genero conflicto armar
+575 departamento pais
+576 oficina asunto etnico
+577 pago deuda social
+578 sociedad civil fortalecer
+579 instituto popular capacitacion
+580 negocio narcotrafico
+581 pactar acuerdo
+582 nivel internacional
+583 agenda publico
+584 organizacion victima
+585 centro democratico
+586 mujer valiente
+587 refrendacion
+588 cano limon
+589 delegacion negociador gobierno
+590 poblacion vulnerable
+591 miembro ejercito
+592 lider comunal
+593 frontera vena
+594 historia vida
+595 institucion publico
+596 sofiapp
+597 transformar social
+598 cambio climatico
+599 disminucion numero desplazamiento
+600 incremento numero secuestro
+601 hidroituango
+602 poder politico
+603 cordillera occidental
+604 situacion genero femenino
+605 grupo ilegal
+606 autocuidado
+607 gustavo anibal giraldo
+608 over jose polo
+609 exparamilitar
+610 betoyes
+611 accionar paramilitar
+612 participacion proceso
+613 interlocutar
+614 mocipar
+615 tejedor paz colombia
+616 lesion personal
+617 sentencia condenatorio
+618 santander quilichao
+619 consejo regional indigena cauca
+620 grupo armar margen ley
+621 generacion ingreso
+622 conversacion paz
+623 afectacion pueblo hermano
+624 persona civil
+625 colectivo mujer paz
+626 olga amparo sanchez
+627 banda crimen organizar
+628 aumento tasa homicidio
+629 reparacion simbolico victima
+630 escuela jose chaparral
+631 grupo trabajo gpaz
+632 vereda flor amarillo
+633 alba teresa higuera
+634 activismo feminista mundial
+635 examen medico legal
+636 paramo oriente antioqueno
+637 modelo justicia transicional
+638 medida prevencion
+639 auto amnistia militar
+640 agenda paz territorial
+641 desnaturalizar violencia genero
+642 conflicto social armar
+643 explotacion petroleo
+644 bernardo cuero bravo
+645 colectivo mujer excombatiente
+646 escenario conflicto armar
+647 reparacion administrativo
+648 organizacion popular vivienda
+649 ambito publico
+650 educar mujer derecho
+651 experiencia diferenciar mujer
+652 programa justicia identidad
+653 fundacion guardian discapacidad
+654 persona
+655 entidad estado
+656 luis carlos villegas
+657 angela maria robledo
+658 instancia especial mujer
+659 derecho sexual
+660 material intendencia comunicacion
+661 acceso tierra
+662 mesa negociacion paz
+663 policia luis mendieta
+664 marco proceso paz
+665 escuela liderazgo juvenil
+666 leonor gonzalez mina
+667 junto administrador local
+668 incorporar mujer
+669 zona frontera
+670 acto violencia mujer
+671 nino
+672 marco juridico
+673 informe
+674 sistema salud
+675 desmovilizacion paramilitar
+676 autodefensa obrero
+677 autoridad local
+678 victima secuestro
+679 principal causa
+680 rol social
+681 fuente ingreso
+682 mujer cabeza familia
+683 violencia psicologico
+684 contraloria general republica
+685 poblacion rural
+686 poblacion afrodescendiente
+687 tipo violacion
+688 victima femenino
+689 obligacion internacional
+690 mujer morir
+691 sur cordoba
+692 universidad nacional
+693 vivir carne
+694 limpal
+695 riesgo vida
+696 participacion laboral
+697 rueda prensa
+698 seguridad materno
+699 violacion sexual
+700 cifra oficial
+701 salud reproductivo
+702 campo batalla
+703 betsabe espinoza
+704 participacion femenino
+705 realidad colombia
+706 derecho igualdad discriminacion
+707 presunto agresor
+708 lucha armar
+709 informe nacional
+710 funcionario publico
+711 proceso judicial
+712 organizacion politico
+713 violacion sufrir
+714 desigualdad social
+715 plan vida
+716 camino paz
+717 proceso reparacion
+718 fabricio hochschild
+719 seguir
+720 grupo juvenil
+721 asistencia humanitario
+722 seguridad democratico
+723 ricardo alvarado
+724 mujer emprendedor
+725 afectacion desproporcionar
+726 teresa yarce
+727 neo paramilitar
+728 vehiculo semoviente
+729 violencia extremo
+730 estrato socioeconomico
+731 motivo genero
+732 intervencion psicosocial
+733 bibiana mercado
+734 anhelar paz
+735 andres salcedo
+736 organizacion nacional
+737 persona activista
+738 dirigente comunitario
+739 propiedad rural
+740 vida
+741 jefe familia
+742 departamento remoto
+743 foco convocatoria
+744 policia choconta
+745 secundar hombre
+746 violencia generalizar
+747 igualdad derecho
+748 acceso propiedad tierra
+749 fortalecer insistir
+750 conflicto
+751 francisco roux
+752 agenda mujer
+753 intermediario neutral
+754 relacion afectivo
+755 ola violencia
+756 seguir alto
+757 region castigar
+758 crecimiento economico
+759 apodo denigrante
+760 escudo politico
+761 disminuir cifra
+762 violencia interpersonal
+763 ciudadano colombofrancesa
+764 afro victima
+765 carita arauca
+766 circunstancia traumatico
+767 sociedad violencia
+768 complejidad juridico
+769 hector janer
+770 actora politico
+771 deyanira valdes
+772 roseli finscue
+773 adriana parrado
+774 rodriguez farrelly
+775 carmen magallon
+776 abogar especialista
+777 bienestar emocional
+778 programa colectivo
+779 juana ramirez
+780 ricaurte serna
+781 amenaza guerrilla
+782 ciudadano autonomo
+783 organizacion degustar
+784 quipu warmi
+785 vereda barracon
+786 altavoz internacional
+787 vereda carraos
+788 vereda esperanza
+789 victima guerra
+790 stefania rosero
+791 amenaza paramilitar
+792 mara marinaki
+793 afectacion particular
+794 estrategia deshumanizacion
+795 emotivo relato
+796 yesica bolivar
+797 rafael aragona
+798 amina mohammed
+799 pramila patten
+800 afrodescendiente desplazar
+801 angela escobar
+802 actoria politico
+803 alto atrato
+804 municipio mediano
+805 alto impunidad
+806 violencia sistematico
+807 sector sociedad
+808 escenario participacion
+809 judith botero
+810 taller genero
+811 gloria castrillon
+812 punto negociar
+813 granada antioquia
+814 formacion sexual
+815 anden pacifico
+816 pena azul
+817 comunidad arauca
+818 tolerancia cero
+819 reasentamiento voluntario
+820 negligencia estatal
+821 grupo insurgente
+822 reclutamiento adolescente
+823 persona desmovilizar
+824 grupo margen ley
+825 allanamiento ilegal
+826 sandra velez
+827 dimension colectivo
+828 amrita kapur
+829 inclusion paritario
+830 continuidad dialogo
+831 conversacion hegemonico
+832 mesa regional
+833 juanita millan
+834 rol familiar
+835 comunidad apartar
+836 general nacion
+837 contar
+838 socorro ramirez
+839 alexandra narino
+840 iniciativa paz
+841 clamor paz
+842 sandra luna
+843 reclamante tierra
+844 madre soacha
+845 politica minero
+846 apoyo mutuo
+847 actor ilegal
+848 manual convivencia
+849 amenaza comunidad
+850 delito genero
+851 silencio victima
+852 comision paz
+853 periodista purasangre
+854 mujer capacitar
+855 liderazgo comunitario
+856 carlos negret
+857 empoderamiento economico
+858 capitan garnica
+859 asociacion productivo
+860 martin sandoval
+861 teatro faenza
+862 guerrillero civil
+863 ayuda psicosocial
+864 desigualdad historico
+865 fulvia chungana
+866 lideresas colombia
+867 leydi zulima
+868 corredor fronterizo
+869 pacto municipal
+870 top iniciativa
+871 proceso dialogo
+872 daniel inclan
+873 margara millan
+874 adenis contreras
+875 desplazamiento individual
+876 abandono estatal
+877 verdad judicial
+878 audiencia preparatorio
+879 reconocimiento responsabilidad
+880 apoyo psicosocial
+881 programa reinsercion
+882 impacto diferencial
+883 intercambio colectivo
+884 proceso resistencia
+885 salud sexual reproductivo
+886 vivir
+887 victima masculino
+888 fuerza estado
+889 solucion conflicto
+890 hombre
+891 guerra
+892 caso documentar
+893 poblacion campesino
+894 hoja coca
+895 organizacion indigena
+896 region afectar
+897 proceso historico
+898 asociacion campesino
+899 cabildo indigena
+900 crimen internacional
+901 exjefes
+902 casa refugio
+903 dirigente campesino
+904 proceso
+905 indultables
+906 organizacion campesino
+907 coalico
+908 asofagua
+909 cooperacion internacional
+910 coccam
+911 pasar
+912 desarrollo personal
+913 empoderen
+914 bancarizados
+915 insurgentas
+916 operacion conjunto
+917 trasvida
+918 organizacion armar
+919 cpdh
+920 aguila negro
+921 liga internacional
+922 derecho justicia
+923 cumbre nacional mujer
+924 santo vicente caguan
+925 condicion social
+926 accion violento
+927 autor material
+928 fosa comun
+929 defender derecho humano
+930 tratar mujer
+931 actividad productivo
+932 plan nacional
+933 registro oficial
+934 accion militar
+935 tolerancia social
+936 obra teatro
+937 crimen mujer
+938 recurso natural
+939 sector social
+940 desarrollo humano
+941 senal colombia
+942 llegar
+943 mujer exiliar
+944 encontrar
+945 consolidacion paz
+946 partido liberal
+947 zona concentracion
+948 tratar persona
+949 acompanamiento internacional
+950 dejar
+951 condicion digno
+952 florence thomas
+953 droga ilicito
+954 familia
+955 brecha genero
+956 jorge eliecer gaitan
+957 libreta militar
+958 atencion adecuar
+959 bloque cacique nutibara
+960 situacion
+961 detencion arbitrario
+962 investigacion cualitativo
+963 departamento
+964 comando central
+965 igualdad condicion
+966 reconciliacion paz
+967 seguridad alimentario
+968 hoja ruta
+969 derecho desplazar
+970 derecho economico
+971 trabajo domestico
+972 industria petroleo
+973 organizador marcha
+974 grupo subversivo
+975 enfoque territorial
+976 violacion masivo derecho humano
+977 unidad administrativo especial gestion restitucion tierra despojar
+978 leso humanidad
+979 derecho educacion
+980 reconciliacion nacional
+981 mision humanitario
+982 estado
+983 cultivo hoja coca
+984 artefacto explosivo
+985 tema genero
+986 entrega arma
+987 cumbre regional
+988 llano oriental
+989 cohesion social
+990 pie pato
+991 gobierno
+992 busqueda paz
+993 forma
+994 condicion adecuar
+995 mujer gestante
+996 asociacion mujer paz defender derecho mujer colombia
+997 estructura criminal
+998 reconocer
+999 nivel local
+1000 territorio
+1001 union patriotico
+1002 gobierno santo
+1003 soberania alimentario
+1004 grupo etnico
+1005 codigo penal
+1006 plan retorno
+1007 sector rural
+1008 reforma agrario
+1009 consolidar paz
+1010 afectar
+1011 garantia seguridad
+1012 guerrillero guerrillero
+1013 operativo militar
+1014 presencia armar
+1015 consejo guerra
+1016 anillo seguridad
+1017 querer
+1018 operacion jaque
+1019 estrategia guerra
+1020 forma directo
+1021 eln
+1022 entidad estatal
+1023 bloque oriental
+1024 organizacion territorial
+1025 accion humanitario
+1026 trabajo
+1027 buscar
+1028 precario condicion
+1029 juana julia guzman
+1030 opinion publico
+1031 derecho
+1032 libertad sexual
+1033 persona asesinar
+1034 imaginario colectivo
+1035 garantia minimo
+1036 cambio estructural
+1037 estacion policia
+1038 objetivo militar
+1039 cifra historico
+1040 acuerdo
+1041 alto tribunal
+1042 unidad movil
+1043 vivienda digno
+1044 proyecto investigacion
+1045 necesidad humanitario
+1046 inversion social
+1047 obstaculizar labor
+1048 organizacion
+1049 madre soltero
+1050 red social
+1051 aplicacion ley
+1052 audiencia publico
+1053 abandonar territorio
+1054 normativa nacional
+1055 caso concreto
+1056 version libre
+1057 estructura social
+1058 violencia cultural
+1059 guerra civil
+1060 derecho propiedad
+1061 tribunal justicia
+1062 museo memoria
+1063 derecho social
+1064 problema estructural
+1065 punto encuentro
+1066 educacion superior
+1067 trafico droga
+1068 universidad javeriana
+1069 centro urbano
+1070 descenso infierno
+1071 derecho persona
+1072 vida normal
+1073 integrante grupo armar organizar residual
+1074 iniciativa comunitario
+1075 vida humano
+1076 guerrilla
+1077 construccion colectivo
+1078 reconstruir vida
+1079 participacion
+1080 lograr
+1081 colectivo mujer premio nobel paz
+1082 poblacion femenino
+1083 autor intelectual
+1084 proceso reconciliacion
+1085 actriz importante conflicto activo
+1086 sistema justicia verdad reparacion repeticion
+1087 cravo norte
+1088 sector politico
+1089 red solidaridad social
+1090 camino dialogo
+1091 plan pistola poblacion civil
+1092 heroe multimision ejercito nacional
+1093 enfoque transformador
+1094 incidencia local
+1095 compromiso genero
+1096 plataforma paz derecho humano
+1097 comunidad
+1098 turismo comunitario
+1099 cine foro
+1100 ciudadano victima
+1101 linea purpura
+1102 estructura patriarcal
+1103 red departamental mujer chocoanas
+1104 modelo bogota
+1105 campesino desplazar
+1106 erradicar cultivo
+1107 combate interposicion poblacion civil
+1108 gabriel bustamante
+1109 cultura machista
+1110 pobreza moderar
+1111 atencion prioritario
+1112 jose manuel hernandez
+1113 modelo justicia enfoque genero
+1114 mineria ilegal
+1115 grupo
+1116 centro recurso analisis conflicto
+1117 aprendizaje proceso paz farc
+1118 centro investigacion educacion popular
+1119 proyecto rosa
+1120 importancia geografico
+1121 presentar
+1122 peligro cultura
+1123 victima directo
+1124 prevencion conflicto
+1125 incidencia politico
+1126 consumo interno
+1127 juan camilo restrepo
+1128 lagrima felicidad
+1129 oscar tulio lizcano
+1130 peso guerra
+1131 extraccion rural
+1132 situacion economico social injusto
+1133 espacio privar
+1134 integrante grupo margen ley
+1135 accion sistematico
+1136 paz completo
+1137 restriccion movilidad
+1138 derecho paz
+1139 ministerio publicar
+1140 permitir
+1141 apropiar acuerdo
+1142 promocion defensa derecho mujer
+1143 promocion garantia derecho mujer
+1144 espacio canal permanente dialogo
+1145 candidato presidencial
+1146 acto definitivo dejacion arma
+1147 humberto calle
+1148 organizacion convocante
+1149 apuesta politico
+1150 recibir
+1151 indigena desplazar
+1152 indigena victima conflicto armar
+1153 comision busqueda persona desaparecer
+1154 alerta temprano perspectiva genero
+1155 cultivo asociar organizacion productivo
+1156 acabar concepto familia tradicional
+1157 delito cometer mujer condicion
+1158 grave violador derecho humano
+1159 mujer aparecer acto publico
+1160 reducir tema violencia sexual
+1161 programa desarrollo paz magdalena
+1162 debilidad institucional
+1163 agenda alivio humanitario participacion
+1164 departamento administrativo prosperidad social
+1165 region sur bolivar yondo
+1166 banco agrario
+1167 proceso organizativo visible mujer
+1168 vulneracion derecho humano mujer
+1169 combustible fosil
+1170 comision historico conflicto victima
+1171 relacion sexual
+1172 impacto positivo
+1173 instituto colombia reforma agrario
+1174 comunidad afectar
+1175 visibilizar situacion mujer colombiano
+1176 trato cruel
+1177 hablar
+1178 punto estrategico
+1179 accion comunal
+1180 generar
+1181 violencia armar
+1182 zona selvatico
+1183 negociacion politico
+1184 plan ordenamiento territorial
+1185 violacion grave
+1186 nivel territorial
+1187 proteccion internacional
+1188 torturar violar
+1189 persona indigena
+1190 nacional
+1191 grupo etnico indigena
+1192 actor guerra
+1193 propuesta concreto
+1194 lugar
+1195 berraca
+1196 esfuerzo colectivo
+1197 exparlamentarios
+1198 discriminacion genero
+1199 implementacion ley
+1200 afrocolombianidad
+1201 recapacitacion
+1202 afrodescendiente
+1203 fdim
+1204 sistema justicia
+1205 luis eladio perez
+1206 integridad fisico
+1207 sangre frio
+1208 postdesmovilizacion
+1209 etnoturismo
+1210 apoyo avion fantasma
+1211 juntanza
+1212 hijo
+1213 cifra
+1214 invisibilizados
+1215 empoderadas
+1216 cilindro bomba
+1217 mineroenergetica
+1218 posparamilitar
+1219 empoderarse
+1220 floramarillo
+1221 patriarcalismo
+1222 apoyo proceso negociacion
+1223 equipo titular gobierno
+1224 extractivismo
+1225 transmedio
+1226 barequeros
+1227 empoderando
+1228 pocholeras
+1229 comunidad etnico
+1230 municipio
+1231 mortalidad materno
+1232 encriptar
+1233 exprocurador
+1234 judicializados
+1235 citadinas
+1236 redepaz
+1237 enfoque etnico genero
+1238 inexequible
+1239 asocurn
+1240 conversatorio
+1241 paro nacional
+1242 aguapanela
+1243 bienestarina
+1244 chuzar
+1245 persona desplazar violencia
+1246 androcentrismo
+1247 recolectar dato
+1248 apoyo cooperacion internacional
+1249 observatorio discriminacion racial
+1250 confinamiento desplazamiento forzar
+1251 barrera acceso justicia
+1252 bogota
+1253 region
+1254 homicidio persona proteger
+1255 patron estructural violencia
+1256 espacio participacion
+1257 espacio libre violencia
+1258 historia personal colectivo
+1259 guerrilla colombiano
+1260 lucha activo femenino
+1261 agresor directo hombre
+1262 mujer mitad victima
+1263 patron violencia mujer
+1264 trabajo politico organizativo
+1265 cumbre regional paz
+1266 constitucion nacional
+1267 acto sexual violento
+1268 presencia autonomo femenino
+1269 carrera nivel profesional
+1270 control armar poblacion
+1271 sufrir
+1272 zona
+1273 necesidad sanitario mujer
+1274 plantacion cacao
+1275 aporte real paz
+1276 estructura criminal mafioso
+1277 grupo autodefensa urbano
+1278 ausencia conciencia ciudadano
+1279 fuerza armar legal
+1280 gustavo petro
+1281 maltrato fisico
+1282 lucha tierra
+1283 lina caro
+1284 movimiento paz
+1285 lider guerrillero
+1286 estatuto romo
+1287 territorio guerra
+1288 esfera publico
+1289 atentado hospital saravena
+1290 rafael uribe uribe
+1291 desmilitarizacion region
+1292 oportunidad desarrollo
+1293 bonito rasgo indigena
+1294 mujer real
+1295 gobernabilidad democratico incluyente
+1296 fuerza aereo colombia
+1297 curso basico sistema
+1298 focalizar proyecto productivo
+1299 grupo mujer emprendedor
+1300 iniciativa reportar bienestar
+1301 oportunidad demostrar fortaleza
+1302 mujer lesbiano
+1303 sector sociedad colombia
+1304 vida individual
+1305 campeonato futbol libertad
+1306 dotacion maquinaria confeccion
+1307 huella positivo comunidad
+1308 taller costura lenceria
+1309 derecho poblacion civil
+1310 desplazamiento
+1311 organizacion mujer indigena
+1312 grupo pais garante
+1313 mando militar
+1314 articulacion plan terrorista
+1315 estricto fin humanitario
+1316 civil muerto
+1317 jep
+1318 saber
+1319 incluir
+1320 violencia persona
+1321 zona rural fluvial
+1322 escenario publico local
+1323 reparacion enfoque genero
+1324 grupo armar irregular
+1325 universidad externado colombia
+1326 plan cuatrienales implementacion
+1327 proceso amplio postulacion
+1328 proceso postulacion seleccion
+1329 acceso participacion activo
+1330 causa efecto desproporcionar
+1331 fortalecimiento democracia pais
+1332 informe periodico publico
+1333 mecanismo acompanamiento internacional
+1334 plan marco implementacion
+1335 comunidad etnico campesino
+1336 balance trabajo remunerar
+1337 derecho pueblo indigena
+1338 capacitacion mujer emprendedor
+1339 futuro prospero seguro
+1340 accion
+1341 sistema patriarcal
+1342 encuesta nacional tiempo
+1343 apretar pelea politico
+1344 circunscripcion transitorio especial
+1345 matal flor amarillo
+1346 tesis ideologia genero
+1347 enfoque diferencial ley
+1348 instrumento juridico
+1349 acuerdo distribucion territorial
+1350 alto nivel corrupcion
+1351 fuerte poder militar
+1352 resistencia pacifico guerra
+1353 ruptura proceso farc
+1354 unidad reaccion inmediato
+1355 acceso oportunidad recuperacion
+1356 poblacion desplazar refugiado
+1357 apertura acto inauguracion
+1358 maltrato violencia intrafamiliar
+1359 pionero departamento arauca
+1360 posicion mujer derecho
+1361 ruta violencia mujer
+1362 trabajo forzar domestico
+1363 negocio inclusivo cacao
+1364 escalamiento conflicto armar
+1365 grande corporacion minero
+1366 organizacion mujer chocoanas
+1367 actividad integrar comunidad
+1368 respaldo heroe patria
+1369 cerrar brecha impunidad
+1370 informe mujer historia
+1371 menor acceso justicia
+1372 mensaje crudo sometimiento
+1373 metodologia enfoque particular
+1374 necesidad enfoque genero
+1375 pacto silencio guerrero
+1376 sistema justicia paz
+1377 encuentro regional paz
+1378 mesa victima arauca
+1379 comprender proceso negociacion
+1380 disertacion justicia paz
+1381 espiritu satisfaccion general
+1382 falta apropiacion acuerdo
+1383 grado movilizacion comprension
+1384 propuesta agenda estrategico
+1385 aliado comercial corporativo
+1386 arbitrario sistema penal
+1387 desmantelamiento grupo paramilitar
+1388 indulto delito politico
+1389 tratamiento penal diferenciar
+1390 riesgo especifico genero
+1391 contrabando combustible mercancia
+1392 civil indefenso
+1393 zona litoral pacifico
+1394 feminicidio
+1395 senalar
+1396 esclavitud sexual forzar
+1397 orden simbolico femenino
+1398 unidad
+1399 centro salud sexual
+1400 promocion derecho
+1401 omnipresencia sistema patriarcal
+1402 politica publico juventud
+1403 dinamica social
+1404 debilidad institucion estatal
+1405 colaborador activo eln
+1406 fuente humano inteligencia
+1407 guerrilla chavista bolivariano
+1408 movimiento interno grupo
+1409 politica recoleccion inteligencia
+1410 presencia estado minimo
+1411 confin mundo rural
+1412 desarrollo productivo agroambiental
+1413 ordenamiento economico social
+1414 ordenamiento minero ambiental
+1415 organizacion social fortalecer
+1416 practico agromineras amigable
+1417 problema sur bolivar
+1418 perfil estigmatizar transitivo
+1419 comunidad organizar
+1420 enfoque genero etnico
+1421 centro operacion eln
+1422 siembra mina antipersonal
+1423 contribuir lucha campesino
+1424 poblacion flotante invisible
+1425 dignidad permanencia territorio
+1426 plan accion oportuno
+1427 defensa acuerdo pactar
+1428 lista persona grata
+1429 paso fronterizo ilegal
+1430 administracion control droga
+1431 fondo colombia paz
+1432 renta ilegal minero
+1433 region rural
+1434 liderazgo social territorial
+1435 reordenamiento grupo armar
+1436 deficit cupo escolar
+1437 garantia movimiento social
+1438 plan desarrollo alternativo
+1439 derecho humano internacional
+1440 garantizar supervivencia hijo
+1441 rompimiento tejido social
+1442 relacion sexual consentir
+1443 vereda cano camame
+1444 mayor
+1445 integralidad proceso paz
+1446 persona condicion discapacidad
+1447 desestabilizar unidad familiar
+1448 efecto personal social
+1449 legado cultural hospitalidad
+1450 modelo estado capitalista
+1451 mercado laboral informal
+1452 reconocimiento factor victimizante
+1453 sustancia psico activo
+1454 erradicacion cultivo ilicito
+1455 acoso lugar trabajo
+1456 testigo desaparicion farc
+1457 derecho reparacion integral
+1458 condicion seguridad proteccion
+1459 turismo area conflicto
+1460 zona desangrar conflicto
+1461 estado social derecho
+1462 falso positivo
+1463 mujer zona rural
+1464 empresa petrolero
+1465 ejecucion extrajudicial
+1466 elemento material
+1467 desplazar
+1468 dano moral
+1469 obstaculo acceso justicia
+1470 hijo guerra
+1471 formacion politico
+1472 proceso resistencia civil
+1473 trabajar
+1474 resguardo indigena
+1475 genero femenino
+1476 proceso social
+1477 polo democratico alternativo
+1478 servicio publico
+1479 caldo cultivo
+1480 solucion pacifico
+1481 criterio politico
+1482 mayor incidencia
+1483 tasa alto
+1484 base ejercito
+1485 tema
+1486 quedar
+1487 origen africano
+1488 poblacion
+1489 universidad cauca
+1490 orden judicial
+1491 activista social
+1492 desigualdad laboral
+1493 guerra seguir
+1494 dato oficial
+1495 secretario gobierno
+1496 proteccion derecho humano
+1497 practica cultural
+1498 miembro fuerza armar
+1499 desarrollo rural
+1500 perdida material
+1501 lider
+1502 sector poblacion
+1503 programa proteccion
+1504 apoyo financiero
+1505 tenencia tierra
+1506 accion belico
+1507 controlar poblacion
+1508 ejercito colombia
+1509 sexo femenino
+1510 sigifredo lopez
+1511 unidad militar
+1512 universidad valle
+1513 protagonista historia
+1514 politica social
+1515 costa caribe
+1516 comite permanente defensa derecho humano
+1517 excombatiente
+1518 cuerpo femenino
+1519 instituto latinoamericano servicio legal alternativo
+1520 mujer embarazar
+1521 mujer cabeza hogar
+1522 relacion sentimental
+1523 mayor cantidad
+1524 atencion
+1525 carecer recurso
+1526 ministerio educacion
+1527 orientacion sexual
+1528 nino huerfano
+1529 pdet
+1530 tribunal militar
+1531 necesidad basico
+1532 arteterapia
+1533 miembro activo
+1534 constitucion politico
+1535 ejercer dominio
+1536 trabajo social
+1537 estado apure
+1538 importante
+1539 institucion estatal
+1540 objetivo fundamental
+1541 representacion politico
+1542 conciliacion tierra
+1543 acceso agua
+1544 combate bombardeo
+1545 grupo soldado
+1546 salario minimo
+1547 garantizar
+1548 deber proceso
+1549 memoria colectivo
+1550 paz gobierno
+1551 abuso mujer
+1552 superacion conflicto
+1553 cambio social
+1554 relacion social
+1555 apoyo colectivo
+1556 comunidad rural
+1557 hormiga putumayo
+1558 desarrollo social
+1559 universidad central
+1560 materia primo
+1561 poder publico
+1562 revista semana
+1563 asesinar
+1564 empresa privar
+1565 iglesia catolico
+1566 armamento precision
+1567 tiempo
+1568 gana progreso
+1569 fragilidad financiero
+1570 nacionalidad venezolano
+1571 mercado informal
+1572 construir
+1573 alto
+1574 paramilitar
+1575 impunidad
+1576 proteccion afectivo
+1577 viajar autobus
+1578 inclusion democratico
+1579 representante seguridad
+1580 trabajo participativo
+1581 dialogo fundamental
+1582 desidia institucional
+1583 cumplimiento inauguracion
+1584 fortalecer capacitacion
+1585 fortalecer microempresa
+1586 cotidianidad laboral
+1587 reserva global
+1588 ejercito asesorar
+1589 convocatoria accion
+1590 imposicion acuerdo
+1591 compania paramilitar
+1592 imaginario errar
+1593 reclutamiento ilegal
+1594 ataque sevicia
+1595 mujer farianas
+1596 estrategico triangulo
+1597 retorno victima
+1598 materia probatorio
+1599 canasta alimenticio
+1600 autonomia diferencial
+1601 tarea femenino
+1602 denunciar
+1603 discurso homogeneo
+1604 novio guerrillero
+1605 cultura sexista
+1606 sufrimiento inmarcesible
+1607 simple prejuicio
+1608 autoabastecimiento financiar
+1609 intencion coercitivo
+1610 sostenibilidad paz
+1611 protagonismo femenino
+1612 presencia territorial
+1613 atencion preferencial
+1614 procedencia etnico
+1615 reproduccion familiar
+1616 sector moderno
+1617 pobreza multidimensional
+1618 impacto transformador
+1619 actividad disidente
+1620 accionar estatal
+1621 incertidumbre legal
+1622 reclutamiento ilicito
+1623 excluir social
+1624 marginalidad ciudad
+1625 sensibilidad solidario
+1626 consecuencia colectivo
+1627 disputa militar
+1628 experiencia fragmentar
+1629 afectacion historico
+1630 analisis determinante
+1631 espacio formal
+1632 estabilizacion social
+1633 movimiento nacional victima crimen estado
+1634 voluntad paz
+1635 justicia
+1636 monterredondo
+1637 escenario propicio
+1638 compromiso institucional
+1639 sistema interamericano derecho humano
+1640 asegurar
+1641 tratamiento diferenciar
+1642 afirmar
+1643 reconocer politico
+1644 corredor estrategico
+1645 conviccion solidar
+1646 evento democratico
+1647 enfoque humanitario
+1648 sistema transicional
+1649 actual negociacion
+1650 semana paz
+1651 social
+1652 sur magdalena
+1653 homenaje paz
+1654 repudio guerra
+1655 abogado frontera
+1656 costurera paz
+1657 digitalizacion bordado
+1658 maquinaria costura
+1659 oficio modisteria
+1660 trabajo interinstitucional
+1661 departamento critico
+1662 dignificar vida
+1663 pavoroso feminicidio
+1664 aporte invaluables
+1665 bingo familiar
+1666 conversatorios paz
+1667 protagonista clausura
+1668 agresion sociedad
+1669 brigada salud
+1670 operacion pistola
+1671 desgarrador testimonio
+1672 doloroso testimonio
+1673 equipo dialogo
+1674 repudiar secuestro
+1675 problematica cotidiano
+1676 dimension psicosocial
+1677 actividad extorsivas
+1678 dialogo confidencial
+1679 amenaza
+1680 oligarquia colombia
+1681 opcion progresista
+1682 violencia territorial
+1683 medida satisfaccion
+1684 mujer temple
+1685 hostigar conflicto
+1686 victima homenajear
+1687 mirada lastimero
+1688 exterminio silencioso
+1689 asentamiento excombatiente
+1690 duplo nacional
+1691 reconocer lideresas
+1692 sugerir lineamiento
+1693 terna territorial
+1694 concepto atentar
+1695 cruento violencia
+1696 imparcialidad neutralidad
+1697 multiple detractor
+1698 institucionalidad nacional
+1699 periodista judicial
+1700 arma cortopunzantes
+1701 paz impunidad
+1702 conflicto contemporaneo
+1703 pena judicial
+1704 practica reiterar
+1705 casa
+1706 lider afrocolombiano
+1707 lider chocoana
+1708 comunidad vulnerable
+1709 cese unilateral
+1710 despojo territorial
+1711 empoderamiento personal
+1712 vulneracion acentuar
+1713 foro departamental
+1714 memoria territorio
+1715 saber ancestral
+1716 situacion inequidad
+1717 trabajo firme
+1718 guerrilla machista
+1719 grupo neoparamilitar
+1720 estereotipo estetico
+1721 movilizacion colectivo
+1722 riesgo permanente
+1723 faccion guerrillero
+1724 mujer trascender
+1725 memoria transformador
+1726 atencion humanitario
+1727 desaparicion involuntario
+1728 enorme vulnerabilidad
+1729 capacitacion psicologico
+1730 derecho etnico
+1731 incorporacion social
+1732 agenda feminista
+1733 agenda revolucionario
+1734 pacto masculino
+1735 trabajo sexual
+1736 inteligencia femenino
+1737 botadero escombro
+1738 cementerio clandestino
+1739 desigualdad desarrollo
+1740 protagonista paz
+1741 planificacion forzar
+1742 agenda institucional
+1743 alegria agradecimiento
+1744 almuerzo comunitario
+1745 aporte dotacion
+1746 banco davivienda
+1747 confeccion belleza
+1748 tipo microcredito
+1749 arma ajeno
+1750 artificio femenino
+1751 colombia contemporaneo
+1752 prestancia intelectual
+1753 pueblo raso
+1754 sector paramilitar
+1755 significacion universal
+1756 confrontacion propicio
+1757 esclavitud laboral
+1758 estigmatizacion publico
+1759 practica forzoso
+1760 violacion oportunista
+1761 conflicto negociar
+1762 numeroso referente
+1763 clan usuga
+1764 hostilidad definitivo
+1765 progreso saravena
+1766 impunidad historico
+1767 reconocimiento agresor
+1768 ambicion climatico
+1769 falso condena
+1770 despacho judicial
+1771 desescalonamiento conflicto
+1772 capitulo dramatico
+1773 insurgencias comunista
+1774 sacrificio espiritual
+1775 agenda accion
+1776 consigna lucha
+1777 departamento oriente
+1778 derecho ancestral
+1779 enorme esperanza
+1780 recorte salud
+1781 territorio agroalimentario
+1782 dramatico panorama
+1783 vereda betoyes
+1784 brigada humanitario
+1785 microempresario rural
+1786 socialismo raizal
+1787 lideresas indigena
+1788 indulto desmovilizar
+1789 paz integral
+1790 reflexion colectivo
+1791 violencia masivo
+1792 organismo legal
+1793 violacion carnal
+1794 evitacion emocional
+1795 pena adicional
+1796 poblacion penitenciario
+1797 rasgo patologico
+1798 reevaluacion positivo
+1799 representacion judicial
+1800 rigor adicional
+1801 paz practico
+1802 dominio sexual
+1803 campamento paramilitar
+1804 exaltacion social
+1805 proyecto avicultura
+1806 bonanza petroleo
+1807 coletazo paramilitar
+1808 desarme guerrilla
+1809 gramatica guerra
+1810 pensamiento belicista
+1811 tregua bilateral
+1812 vision cortoplacista
+1813 feminidad juzgar
+1814 interpelacion social
+1815 masculinidad despotico
+1816 practica brutal
+1817 violacion correctivo
+1818 anticoncepcion forzar
+1819 indigencia rural
+1820 rechazo soterrar
+1821 comunidad desarraigar
+1822 limbo legal
+1823 construccion machista
+1824 delicia sexual
+1825 grandeza femenino
+1826 politico irresponsable
+1827 pudor femenino
+1828 proceso desminar
+1829 cuidado comunitario
+1830 mecanismo expedito
+1831 regulacion estereotipar
+1832 restriccion abrir
+1833 agresion sofisticar
+1834 criterio patriarcal
+1835 acuerdo convivencia
+1836 juicio guerrillero
+1837 monopolizar contrabando
+1838 relacion soldado
+1839 actitud empatico
+1840 perspectiva diferencial
+1841 proceso reencuentro
+1842 abandono historico
+1843 actor territorial
+1844 conflicto pobreza
+1845 ecosistema biodiversos
+1846 mandato veredal
+1847 pobre multidimensional
+1848 pueblo multicultural
+1849 territorio ordenar
+1850 bloque paramilitar
+1851 estigmatizacion poblacion
+1852 hipermasculinidad conflicto
+1853 inclusion juventud
+1854 paridad politico
+1855 ritual hermandad
+1856 tipo
+1857 contexto inclusion
+1858 trabajo reproductivo
+1859 medida integral
+1860 eventual desmovilizacion
+1861 agresividad policial
+1862 bienvenida infierno
+1863 carga cultural
+1864 hombre insurgente
+1865 papel mama
+1866 rango guerrilla
+1867 abandono institucional
+1868 lideresas urbano
+1869 ultraje integridad
+1870 ultraje mujer
+1871 lineamiento estatuto
+1872 necesidad genero
+1873 norma negativo
+1874 subsidio integral
+1875 tejido organizativo
+1876 rol domestico
+1877 consejo noruego
+1878 dinamica personal
+1879 fragmentar sociedad
+1880 granar antioquia
+1881 precariedad institucional
+1882 rehabilitacion psicologico
+1883 pronunciamiento internacional
+1884 verdad
+1885 autoridad guerrillero
+1886 contexto machista
+1887 corredor tradicional
+1888 inseguridad fisico
+1889 corte franela
+1890 petra yance
+1891 violencia sociopolitico
+1892 alfabetizacion juridico
+1893 costo emocional
+1894 desnivel salarial
+1895 equipamiento normativo
+1896 fuerza ajeno
+1897 incentivo fundamental
+1898 incomunicacion familiar
+1899 iniciativa organizativo
+1900 migrante forzar
+1901 remuneracion salarial
+1902 respaldo normativo
+1903 union marital
+1904 asignacion regalia
+1905 legislacion petroleo
+1906 produccion departamental
+1907 comunidad tolerante
+1908 guerra fisico
+1909 oportunidad extraordinario
+1910 persona migrante
+1911 pobreza infinito
+1912 taller recuperacion
+1913 amenaza generalizar
+1914 homicidio colectivo
+1915 militar imperioso
+1916 regreso voluntario
+1917 ayuda empresarial
+1918 comportamiento comunitario
+1919 condicionante olvido
+1920 homicidio individual
+1921 jornada educativo
+1922 justicia prevalecer
+1923 procedencia actor
+1924 temor asesinar
+1925 temor oculto
+1926 tratamiento benigno
+1927 bipartidismo tradicional
+1928 literatura testimonial
+1929 guerrilla campesino
+1930 legislacion clave
+1931 mandato familiar
+1932 multiple decreto
+1933 tejido cultural
+1934 deterioro identidad
+1935 identidad desplazar
+1936 resolver miedo
+1937 ruptura vida
+1938 destruccion comunitario
+1939 distancia psicologico
+1940 crueldad extremo
+1941 afro armar
+1942 barrera mental
+1943 constriccion comunitario
+1944 historia positivo
+1945 historico olvido
+1946 poblacion adolescente
+1947 seguimiento violencia
+1948 ciudadano completo
+1949 desigualdad politico
+1950 escenario democratico
+1951 estructura desigual
+1952 etapa judicial
+1953 finalidad tactico
+1954 ideologia patriarcal
+1955 logica androcentrica
+1956 miembro desmovilizar
+1957 mujer reclamante
+1958 parametro humanista
+1959 vision androcentrica
+1960 mesa participacion
+1961 ejemplo
+1962 nacion desesperar
+1963 paz prometer
+1964 excandidata
+1965 corazon conflicto
+1966 llamar
+1967 memoria dolor
+1968 hernan giraldo
+1969 riesgo particular
+1970 tractomula
+1971 comunidad paz
+1972 salida politico
+1973 multiple actor
+1974 idea negocio
+1975 foro regional
+1976 nino campesino
+1977 mes
+1978 sociedad
+1979 escenario urbano
+1980 conpes
+1981 generacion electrico
+1982 registrar
+1983 sonia lopez
+1984 reparacion
+1985 apoyo
+1986 liderazgo politico
+1987 trayectoria importante
+1988 reclamacion tierra
+1989 centro
+1990 activo productivo
+1991 persona proteger
+1992 empleo formal
+1993 documento fundamental
+1994 operacion humanitario
+1995 cerrar brecha
+1996 piedad cordoba
+1997 paro civico
+1998 ordenamiento territorial
+1999 salir
+2000 eleccion presidencial
+2001 actividad humanitario
+2002 violacion menor
+2003 ordenamiento social
+2004 malo calidad
+2005 objeto contundente
+2006 organizacion defensor
+2007 puente aranda
+2008 mando rebelde
+2009 agua tierra
+2010 recrudecimiento conflicto
+2011 vicente castano
+2012 explicar
+2013 representante
+2014 trabajo forzar
+2015 seguridad fisico
+2016 proyectil arma fuego
+2017 armar
+2018 alto porcentaje
+2019 marco
+2020 margot wallstrom
+2021 oscar naranjo
+2022 entidad internacional
+2023 capacidad superar dificultad
+2024 violacion sistematico
+2025 malo paso
+2026 lider sociedad civil
+2027 seguridad poblacion civil
+2028 universidad sabana
+2029 integridad fisico psicologico
+2030 investigacion
+2031 reconocimiento derecho politico
+2032 teatro bogota
+2033 integridad personal
+2034 rio cravo
+2035 jose apartado
+2036 proyecto vital
+2037 tratar
+2038 ciudad
+2039 manuela beltran
+2040 ivan cepeda
+2041 tramite administrativo
+2042 apoyo psicologico
+2043 principal
+2044 ley
+2045 interes militar
+2046 campamento guerrillero
+2047 oportunidad laboral
+2048 cuerpo
+2049 alzamiento armar
+2050 movimiento armar quintin lame
+2051 judicializacion
+2052 carga economico
+2053 marta ruiz
+2054 migracion forzar
+2055 organizacion feminista
+2056 pareja actual
+2057 existir
+2058 apoyo institucional
+2059 espacio
+2060 comercio sexual
+2061 guerrilla comunista
+2062 arma ilegal
+2063 genero
+2064 dominacion masculino
+2065 asesinato periodista
+2066 perder identidad
+2067 crimen estado
+2068 reconocimiento publico
+2069 arauquita
+2070 teoria feminista
+2071 responsabilidad social
+2072 medida
+2073 creer
+2074 discriminacion sexual
+2075 desercion escolar
+2076 falta seguridad
+2077 sistema integral
+2078 cometer
+2079 continuar
+2080 rcn radio
+2081 apoyo desarrollo
+2082 estructura familiar
+2083 violencia politico social
+2084 alcaldia bogota
+2085 andres gil
+2086 centro internacional agricultura tropical
+2087 especial
+2088 impacto bala
+2089 victimario
+2090 puerto gaitan
+2091 alto apure
+2092 necesidad
+2093 politico
+2094 aumento salarial
+2095 santo domingo
+2096 intervencion artistico
+2097 region periferico
+2098 bahia solano
+2099 organismo judicial
+2100 indicar
+2101 comunidad particular
+2102 medida especial
+2103 concierto delinquir
+2104 educacion popular
+2105 esfera politico
+2106 leccion vida
+2107 ley tierra
+2108 central unitario trabajador colombia
+2109 representar
+2110 director
+2111 bloque norte
+2112 colombiano
+2113 oficina coordinacion asunto humanitario
+2114 servicio esencial
+2115 trabajo similar
+2116 empresa transnacional
+2117 accion terrorista
+2118 alcaldia municipal
+2119 estudio global
+2120 norte antioquia
+2121 desarrollo sostenible
+2122 seguridad
+2123 grupo vulnerable
+2124 estrategia
+2125 considerar
+2126 asesinato selectivo
+2127 inteligencia ejercito
+2128 diversidad sexual
+2129 establecimiento comercial
+2130 falta oportunidad
+2131 delito
+2132 recuperar libertad
+2133 postura politico
+2134 rol familia
+2135 grande autor
+2136 ambito rural
+2137 oportunidad economico
+2138 condicion precario
+2139 protesta social
+2140 persona secuestrar
+2141 repercusion mediatico
+2142 cruento guerra
+2143 actividad delictivo
+2144 actor fundamental
+2145 carga explosivo
+2146 unidad nacional
+2147 mujer enamorar
+2148 victima mina antipersona
+2149 proyecto
+2150 internacional
+2151 investigacion judicial
+2152 actor desconocer
+2153 frente guerrillero
+2154 nivel global
+2155 requisito minimo
+2156 unidad productivo
+2157 asociar
+2158 yacimiento petroleo
+2159 experiencia vivir
+2160 accion positivo
+2161 trabajar equipo
+2162 movimiento estudiantil
+2163 simon trinidad
+2164 mundo
+2165 propiedad tierra
+2166 mujer griego
+2167 exposicion arte
+2168 carmen bolivar
+2169 lugar central
+2170 victima fatal
+2171 vida publico
+2172 grupo terrorista
+2173 rol femenino
+2174 eje cafetero
+2175 plan gobierno
+2176 dependencia economico
+2177 estar derecho
+2178 marco legal
+2179 gobierno ecuatoriano
+2180 estructura militar
+2181 reivindicacion derecho
+2182 liderazgo social
+2183 gas lacrimogeno
+2184 derecho mujer decidir
+2185 via judicial
+2186 campesino
+2187 maria cano
+2188 libre circulacion
+2189 ambiente favorable
+2190 modelo desarrollo economico
+2191 ministerio justicia
+2192 presion politico
+2193 servicio sanitario
+2194 voto femenino
+2195 trofeo guerra
+2196 arma blanco
+2197 desastre natural
+2198 mina antipersona
+2199 seguridad ciudadano
+2200 falta resultado
+2201 tomar
+2202 vida espiritual
+2203 necesidad economico
+2204 participar
+2205 dificultad tecnico
+2206 hombre morir
+2207 accion gubernamental
+2208 efecto colateral
+2209 relacion familiar
+2210 condicion economico
+2211 instituto geografico agustin codazzi
+2212 jornada electoral
+2213 servicio militar
+2214 historia
+2215 grupo criminal
+2216 estado civil
+2217 construir sociedad
+2218 corte supremo justicia colombia
+2219 esfuerzo
+2220 comportamiento agresivo
+2221 historia similar
+2222 presencia
+2223 establecer
+2224 norma juridico
+2225 reconocimiento especial
+2226 programa
+2227 casa narino
+2228 diversidad etnico
+2229 espacio vital
+2230 condicion
+2231 costo economico
+2232 dominio territorial
+2233 apoyo logistico
+2234 movilizacion social
+2235 maria diaz
+2236 golfo uraba
+2237 plaza bolivar
+2238 censo electoral
+2239 pozo petrolero
+2240 cultura paz
+2241 practica social
+2242 privacion libertad
+2243 seguridad nacional
+2244 asamblea departamental
+2245 proyecto social
+2246 orden nacional
+2247 proceso seleccion
+2248 pobreza extremo
+2249 actitud positivo
+2250 desmovilizar
+2251 causa social
+2252 grupo disidente
+2253 proceso educativo
+2254 desarrollo
+2255 convertir
+2256 uniforme militar
+2257 independencia economico
+2258 persona detener
+2259 organizacion local
+2260 castigo fisico
+2261 factor economico
+2262 grupo organizar
+2263 documento
+2264 venir
+2265 forma violento
+2266 punto
+2267 impacto social
+2268 jornada informativo
+2269 riesgo especifico
+2270 grupo militar
+2271 acuerdo internacional
+2272 territorio indigena
+2273 sistema politico
+2274 capacidad militar
+2275 mayoria
+2276 puesto control
+2277 eleccion parlamentario
+2278 vida sexual
+2279 miedo
+2280 desarrollo local
+2281 etapa inicial
+2282 museo nacional
+2283 cambio politico
+2284 tema economico
+2285 sector publico
+2286 dirigente social
+2287 decreto presidencial
+2288 comision social
+2289 vida politico
+2290 sentencia muerte
+2291 programa desarrollo rural
+2292 actividad
+2293 sistema judicial
+2294 propiedad privar
+2295 reforma sistema
+2296 ayuntamiento madrid
+2297 desestructuracion social
+2298 actividad politico
+2299 ambito internacional
+2300 proceso penal
+2301 representante campesino
+2302 dificultad adicional
+2303 crimen especifico
+2304 sentir
+2305 delincuente politico
+2306 tratado internacional
+2307 desolador panorama
+2308 orden social
+2309 gobierno local
+2310 lista negro
+2311 derecho humano nacion unir
+2312 homicidio
+2313 agua potable
+2314 principal problema
+2315 entregar
+2316 proteccion poblacion civil
+2317 explotacion minero
+2318 punto referencia
+2319 guerra mundial
+2320 indigena
+2321 organismo internacional
+2322 zona influencia
+2323 esperar
+2324 miembro
+2325 cambio radical
+2326 gobierno central
+2327 universidad antioquia
+2328 crimen
+2329 asamblea constituyente
+2330 menor
+2331 objetivo
+2332 santo
+2333 expresar
+2334 crear
+2335 vereda
+2336 enfoque etnico
+2337 destacar
+2338 realidad
+2339 compania guerrillero
+2340 mujer aguerrir
+2341 volver
+2342 municion explotar
+2343 acceso servicio publico
+2344 mostrar
+2345 resguardar territorio
+2346 alivio humanitario
+2347 incentivar deporte
+2348 mensaje reflexion
+2349 campana
+2350 documentacion legal
+2351 riesgo
+2352 bloque central bolivar
+2353 implementacion
+2354 guerrillero
+2355 reconocimiento
+2356 trabajo organizativo
+2357 indice nacional
+2358 pueblo
+2359 fe inmenso
+2360 asesinato
+2361 lider madre
+2362 desplazamiento urbano
+2363 feria servicio
+2364 suceder
+2365 practica abusivo
+2366 salud sexual
+2367 componente comercial
+2368 campesino sindicalista
+2369 resistencia violencia
+2370 dignidad sociedad
+2371 visibilidad politico
+2372 cultura patriarcal
+2373 asesoria profesional
+2374 espacio interaccion
+2375 manual artesanal
+2376 noble labor
+2377 fiesta comercial
+2378 bando armar
+2379 negocio productivo
+2380 reintegracion social
+2381 marcar piel
+2382 coste ecologico
+2383 experiencia
+2384 analisis coyuntura
+2385 doble discurso
+2386 conflicto sociopolitico
+2387 aceptacion responsabilidad
+2388 mensaje esperanzador
+2389 ciudad petroleo
+2390 habilidad empresarial
+2391 profundo pobreza
+2392 colectivo pensamiento
+2393 region marginar
+2394 autoridad armar
+2395 clasificacion social
+2396 violencia institucional
+2397 capitalizar renta
+2398 desplazar exterior
+2399 tragedia humanitario
+2400 enfoque narrativo
+2401 ritual ancestral
+2402 promotor paz
+2403 oportunidad limitar
+2404 expulsion violento
+2405 referente clave
+2406 relacion intrafamiliares
+2407 concepcion paz
+2408 jornada caza
+2409 potencial perder
+2410 proteccion policial
+2411 poder criminal
+2412 contexto
+2413 ciudadano productivo
+2414 colectivo feminista
+2415 abandono forzar
+2416 grupo crimen organizar
+2417 aspecto humanitario
+2418 personera
+2419 dialogo
+2420 fin
+2421 politica derecho humano
+2422 voceria
+2423 comandante militar zona
+2424 tierra
+2425 citaca
+2426 arma
+2427 invisibilizado
+2428 sociojuridica
+2429 choco
+2430 habano
+2431 vulneracion derecho humano
+2432 joven
+2433 excomandante
+2434 tame
+2435 proteccion
+2436 helicoptero asalto
+2437 iniciativa
+2438 narino
+2439 heroe multimision
+2440 justicia especial paz
+2441 impacto
+2442 temprana
+2443 timochenko
+2444 general
+2445 palabreando
+2446 encuadrillados
+2447 resultado
+2448 reforma social politico
+2449 hospital saravena
+2450 economico
+2451 oportunidad
+2452 fokus
+2453 excomandantes
+2454 exjefa
+2455 exsubversiva
+2456 asofavidsa
+2457 violentometro
+2458 unico
+2459 cepaz
+2460 indultable
+2461 psicoespiritual
+2462 exguerilleros
+2463 acto
+2464 lbti
+2465 interseccionalidad
+2466 grupo memoria historico
+2467 coomeva
+2468 exnegociadora
+2469 exsenadora
+2470 feminicida
+2471 feminicidas
+2472 masatugo
+2473 culpabilizadas
+2474 lucha
+2475 pluriversitaria
+2476 cancharinas
+2477 unibrisas
+2478 pansexuales
+2479 visibilizo
+2480 empodero
+2481 huisito
+2482 eurolatinoamericana
+2483 uecolombia
+2484 antivalor
+2485 apocaflor
+2486 caucanas
+2487 avirama
+2488 bravear
+2489 tamenas
+2490 reincorporacion
+2491 chocoanas
+2492 caquetena
+2493 invisibilizo
+2494 manoteo
+2495 transformar
+2496 exesposo
+2497 pachencas
+2498 exparejas
+2499 piquetierra
+2500 orden territorial
+2501 zidres
+2502 irrespetaron
+2503 toldillo
+2504 antioquia
+2505 invisibilizan
+2506 minjusticia
+2507 salacunas
+2508 duradera
+2509 impunidades
+2510 guerriar
+2511 exintegrantes
+2512 pelioneras
+2513 multiactivo
+2514 pioya
+2515 tumburao
+2516 ecotours
+2517 paniqueamos
+2518 violentador
+2519 misionalidad
+2520 repreguntar
+2521 estigmatizantes
+2522 desestigmatizacion
+2523 culpabilice
+2524 onmc
+2525 agrocolombianas
+2526 colombogriego
+2527 cumbitara
+2528 grupo etnico minoritario
+2529 modelitos
+2530 transgeneracional
+2531 malparir
+2532 negocioaciones
+2533 banadias
+2534 preasamblea
+2535 preconcentrar
+2536 ecofeminizarte
+2537 fortalecer
+2538 invisbilizacion
+2539 montemarianas
+2540 cutelino
+2541 raspachines
+2542 chuzon
+2543 cnhm
+2544 estimarque
+2545 lorraa
+2546 gobernancia
+2547 internacinoal
+2548 denfender
+2549 disientes
+2550 expocauca
+2551 jornalear
+2552 autorreflexivo
+2553 historicocultural
+2554 abcolombia
+2555 fileteadora
+2556 uniminuto
+2557 colectivo
+2558 palenqueras
+2559 prenegociacion
+2560 farcianos
+2561 procolombia
+2562 desfavorabilidad
+2563 asmucat
+2564 chulavitas
+2565 coptar
+2566 descarrillar
+2567 fritangueras
+2568 abusos
+2569 nulpe
+2570 posdesmovilizacion
+2571 totumito
+2572 adversas
+2573 amedrantamiento
+2574 amenzantes
+2575 inocultable
+2576 invisibilizadas
+2577 madresolterismo
+2578 previstos
+2579 redefinciones
+2580 amordazamiento
+2581 ascatidar
+2582 barequeo
+2583 cambuches
+2584 macondiana
+2585 margento
+2586 taracenas
+2587 feminizar
+2588 probienestar
+2589 caotizan
+2590 carnetizados
+2591 cordoda
+2592 participacion pleno
+2593 arpilleristas
+2594 cedhul
+2595 chocquibtown
+2596 empoderandonos
+2597 metacolombia
+2598 chismoseando
+2599 desinvertir
+2600 desparpajar
+2601 macetos
+2602 maranero
+2603 reexperimentacion
+2604 bajonea
+2605 contraguerrillero
+2606 desmotivo
+2607 serruchar
+2608 sororidad
+2609 barrialeros
+2610 cambuche
+2611 distanciacion
+2612 maldingo
+2613 matarona
+2614 quibdosenos
+2615 fuerza politico social
+2616 empezar
+2617 citpax
+2618 desiguales
+2619 iidh
+2620 reconfigurado
+2621 informacion
+2622 sumar
+2623 evento
+2624 grande
+2625 enfermedad transmision sexual
+2626 violacion
+2627 cosa
+2628 enfoque progresivo
+2629 sufrimiento individual
+2630 exmiembros
+2631 hora
+2632 compromiso
+2633 federacion estudiante universitario
+2634 comision
+2635 departamento nacional planeacion
+2636 cabo
+2637 entidad
+2638 promover
+2639 premio nobel paz
+2640 fuerza militar colombia
+2641 mesa
+2642 organismo derecho humano
+2643 cauca
+2644 ejercer
+2645 oportunidad aprendizaje
+2646 paso
+2647 autoridad civil militar
+2648 pedir
+2649 explotacion recurso natural
+2650 descomposicion social
+2651 nombre
+2652 sumar voluntad
+2653 ocurrir
+2654 campesino colombiano
+2655 respeto derecho humano
+2656 culminacion exitoso
+2657 sector poblacional
+2658 partido comunista colombia
+2659 madre
+2660 necesidad victima
+2661 relacion
+2662 exjefe
+2663 apoyar
+2664 numero
+2665 diferencia salarial
+2666 restitucion derecho
+2667 arreglo genero
+2668 violencia nacional
+2669 violar
+2670 dirigente asesinar
+2671 doble significacion
+2672 paz democratico
+2673 reconocimiento politico
+2674 tortura sexual
+2675 personalidad violento
+2676 labor tradicional
+2677 lejano territorio
+2678 sujeto colectivo
+2679 iniciativa estatal
+2680 propuesta presidencial
+2681 responsabilidad nacional
+2682 decidir
+2683 estudio
+2684 edad
+2685 espacio seguro
+2686 ambiente electoral
+2687 privacion arbitrario
+2688 emboscada guerrillero
+2689 opresion guerra
+2690 secuestro extorsivos
+2691 verdad parcial
+2692 aspersion aereo
+2693 red intermediario
+2694 ataque paramilitar
+2695 condicion desventajoso
+2696 crisis liderazgo
+2697 garantia laboral
+2698 serrania abibe
+2699 registro estadistico
+2700 alternativa empleo
+2701 acto racismo
+2702 imaginario comun
+2703 mecanismo politico
+2704 decision extremo
+2705 instancia estatal
+2706 reproduccion social
+2707 respuesta estatal
+2708 dano colectivo
+2709 problema
+2710 muerte
+2711 familiar sobreviviente
+2712 junto
+2713 desarrollar
+2714 familiar
+2715 obligar
+2716 exigir
+2717 marcha
+2718 ubicar
+2719 autoridad
+2720 publico
+2721 educacion
+2722 ayudar
+2723 recordar
+2724 garantia independencia
+2725 integrante
+2726 denuncia
+2727 iniciar
+2728 mantener
+2729 castigar conducta
+2730 grupo focal
+2731 historial delictivo
+2732 responsabilidad
+2733 disposicion normativa
+2734 necesario
+2735 empoderamiento
+2736 herramienta pedagogico
+2737 atender
+2738 mano
+2739 institucion familiar
+2740 relacionar
+2741 cumplir
+2742 tema transversal
+2743 cambio sustantivo
+2744 acceso
+2745 crisis colombia
+2746 construccion simbolico
+2747 estadistica demostrar
+2748 legalizar propiedad
+2749 respuesta global
+2750 liderar
+2751 concentracion publico
+2752 defensor
+2753 concepto construir
+2754 visita semanal
+2755 patrimonio social
+2756 adolescente
+2757 economia petroleo
+2758 persona vulnerable
+2759 tarea exclusivo
+2760 violencia simbolico
+2761 recopilacion exhaustivo
+2762 hogar
+2763 zona problematico
+2764 condicion cultural
+2765 escenario
+2766 familia patriarcal
+2767 respuesta armar
+2768 responsable
+2769 restitucion bien
+2770 contribuir
+2771 reto
+2772 control
+2773 voluntad servicio
+2774 fuerza
+2775 bienestar comunidad
+2776 conformar
+2777 terminar
+2778 octubre
+2779 falta representacion
+2780 teoria genero
+2781 capacidad superar
+2782 regulacion social
+2783 plantacion coca
+2784 profundo soledad
+2785 noviembre
+2786 matar
+2787 avanzar
+2788 campo cultivar
+2789 periodo
+2790 hermano
+2791 territorio devastar
+2792 militar
+2793 lucha feminista
+2794 bienestar colectivo
+2795 reunir
+2796 policia
+2797 jornada protesta
+2798 relacion igualitario
+2799 mecanismo
+2800 politica
+2801 agregar
+2802 violento extremo
+2803 bandera paz
+2804 aumentar
+2805 ambito material
+2806 narinenses
+2807 unir
+2808 autoreconocer
+2809 salud
+2810 constituir
+2811 reinsercion social
+2812 victima individual
+2813 acuerdo negociar
+2814 profundo rechazo
+2815 vida legal
+2816 enfrentar
+2817 coordinacion nacional
+2818 accion puntual
+2819 estrategia adaptativo
+2820 dominio militar
+2821 restriccion movimiento
+2822 universidad amazonia
+2823 emancipacion femenino
+2824 letra morir
+2825 fuego unilateral
+2826 mayor interaccion
+2827 ejercito
+2828 proteger
+2829 paramilitarismo
+2830 universidad
+2831 ataque indiscriminado
+2832 labor casa
+2833 alza tarifa
+2834 pleno selva
+2835 posibilidad
+2836 mina antipersonal
+2837 identidad femenino
+2838 origen racial
+2839 secuestro
+2840 amor letal
+2841 produccion organico
+2842 viejo deuda
+2843 necesitar
+2844 autonomia individual
+2845 responder
+2846 violencia brutal
+2847 defensor paz
+2848 accion inteligencia
+2849 formulacion teorico
+2850 gente
+2851 proyecto paz
+2852 destruccion violento
+2853 alias hh
+2854 centro tortura
+2855 servicio integral
+2856 incansable labor
+2857 medida provisional
+2858 reto social
+2859 representacion femenino
+2860 capacidad
+2861 coordinador
+2862 convocatoria publico
+2863 comite
+2864 desmovilizacion
+2865 estado economico
+2866 labor
+2867 adelantar
+2868 institucion
+2869 red
+2870 beneficio familia
+2871 ambiente belico
+2872 recurso
+2873 firmar
+2874 grupo alzar
+2875 error conceptual
+2876 decada
+2877 comprometer
+2878 testimonio
+2879 represion estatal
+2880 cuidado hogar
+2881 falta condicion
+2882 negocio ilegal
+2883 causa
+2884 lugar equivocar
+2885 escuchar
+2886 crimen pasar
+2887 derecho joven
+2888 modelo femenino
+2889 lugar privar
+2890 problema cultural
+2891 materia proceso
+2892 maltrato psicologico
+2893 relacion paralelo
+2894 problema logistico
+2895 nivel cobertura
+2896 cifra global
+2897 preocupacion central
+2898 sistema monitoreo
+2899 patron especifico
+2900 seguimiento
+2901 diligencia judicial
+2902 reforma juridico
+2903 politica arma
+2904 guerrilla izquierdista
+2905 camino
+2906 proteger futuro
+2907 limite nacional
+2908 asentamiento ilegal
+2909 amenazar
+2910 politica territorio
+2911 casta militar
+2912 lider region
+2913 nobel paz
+2914 reciente
+2915 postura critico
+2916 barrera infranqueable
+2917 factor protector
+2918 reporteria
+2919 proceso regional
+2920 manifestar
+2921 plan turistico
+2922 perder
+2923 tarea inteligencia
+2924 sensibilidad especial
+2925 adaptacion entorno
+2926 pueblo ecuatoriano
+2927 sacar
+2928 mecanismo juridico
+2929 red tradicional
+2930 union legal
+2931 apoyo medico
+2932 dinamizadora
+2933 encuentro
+2934 comandante
+2935 demanda social
+2936 programa prevencion
+2937 acto pillaje
+2938 ruta
+2939 mano amigo
+2940 enseres domestico
+2941 dato similar
+2942 actividad contrabando
+2943 reportar
+2944 nucleo humano
+2945 pensar
+2946 alcanzar
+2947 negociador paz
+2948 grupo intergubernamental
+2949 cargo directivo
+2950 iniciativa local
+2951 construccion
+2952 fuerza paramilitar
+2953 deterioro social
+2954 ideologia politico
+2955 brindar
+2956 tortura psicologico
+2957 relacion conyugal
+2958 habitante
+2959 abrir
+2960 fuero militar
+2961 requerir
+2962 trabajo colectivo
+2963 insinuacion sexual
+2964 referir
+2965 recurso renovable
+2966 fundamental
+2967 grave
+2968 valoracion positivo
+2969 objetivo central
+2970 educacion politico
+2971 interpretacion teatral
+2972 promover progreso
+2973 conjunto
+2974 autoridad europeo
+2975 cargo rebelion
+2976 financiar gobierno
+2977 campamento militar
+2978 condicion subjetivo
+2979 encuentro familiar
+2980 multiple objetivo
+2981 conducta criminal
+2982 negociacion internacional
+2983 dialogo social
+2984 resiliencia
+2985 empresario textil
+2986 forma ilegal
+2987 reflexion critico
+2988 registro formal
+2989 asumir
+2990 objetivo estrategico
+2991 quinchia
+2992 minar camino
+2993 crimen organizar
+2994 polo oponer
+2995 modisteria
+2996 razon
+2997 mina explosivo
+2998 seguridad estado
+2999 estigmatizacion
+3000 ataque civil
+3001 agente gobierno
+3002 aliviar dolor
+3003 ideal politico
+3004 comportamiento moral
+3005 papel
+3006 concepto ideologia
+3007 requisito fundamental
+3008 reparacion material
+3009 equipo interdisciplinario
+3010 profesional social
+3011 destino nacional
+3012 problema ambiental
+3013 ataque persona
+3014 propuesta
+3015 actor responsable
+3016 pancoger
+3017 discriminacion racial
+3018 tratar menor
+3019 conflicto social
+3020 democracia pleno
+3021 medellin
+3022 investigacion cuantitativo
+3023 reinsertar
+3024 alto elite
+3025 fuerza estatal
+3026 identidad sexual
+3027 nivel
+3028 timbio
+3029 cultivo tradicional
+3030 libertad
+3031 dano fisico
+3032 origen etnico
+3033 junio
+3034 conducta violento
+3035 defensa civil
+3036 forma actual
+3037 resaltar
+3038 raza humano
+3039 hora gracia
+3040 video educativo
+3041 complexion delgado
+3042 gas natural
+3043 identificar
+3044 reintegrar sociedad
+3045 unidad productor
+3046 sexual
+3047 reconsiderar decision
+3048 accion habitual
+3049 comportamiento desviar
+3050 efectivo
+3051 acompanar
+3052 proceso gradual
+3053 cambio
+3054 libertad basico
+3055 desarrollo pleno
+3056 produccion limpio
+3057 pieza clave
+3058 persona mayor
+3059 hombre social
+3060 mujer activo
+3061 entender
+3062 espacio territorial
+3063 dato estadistico
+3064 asesoramiento juridico
+3065 vida ordinario
+3066 tension interior
+3067 comenzar
+3068 lista interminable
+3069 mano limpio
+3070 lenguaje sexista
+3071 resto mortal
+3072 objeto sexual
+3073 meta
+3074 juicio penal
+3075 salida esperar
+3076 falta compromiso
+3077 ocasion
+3078 clase social
+3079 impuesto revolucionario
+3080 mensaje paz
+3081 acto ilegal
+3082 rio
+3083 participacion comunitario
+3084 fortalecimiento capacidad
+3085 medida legal
+3086 baja moral
+3087 particular
+3088 psicologico
+3089 dirigir
+3090 talento natural
+3091 casa acogida
+3092 forma tortura
+3093 dificil
+3094 cuadro politico
+3095 diferencia humano
+3096 vida democratico
+3097 cultura prehistorico
+3098 condicion inhumano
+3099 jerarquia poder
+3100 documentar
+3101 taller actuacion
+3102 lugar memoria
+3103 efecto natural
+3104 problema auditivo
+3105 muerte honor
+3106 asesinato esposo
+3107 rol madre
+3108 integral
+3109 problema fondo
+3110 normativa internacional
+3111 sumo pontifice
+3112 apoyo familiar
+3113 proyecto educacion
+3114 costo social
+3115 multiple ocasion
+3116 falda corto
+3117 solucion integral
+3118 villa leyva
+3119 curso primario
+3120 enemigo interno
+3121 guerrillero preso
+3122 patron cultural
+3123 rapar pelo
+3124 practica
+3125 habilidad artistico
+3126 prevencion primario
+3127 esperanza
+3128 desarrollo potencial
+3129 sangre derramar
+3130 derecho patrimonial
+3131 poblacion afroamericano
+3132 historico
+3133 capacidad cognitivo
+3134 morir
+3135 luchar
+3136 contexto nacional
+3137 decision correcto
+3138 atentado explosivo
+3139 construccion modelo
+3140 cambio abrupto
+3141 discriminacion positivo
+3142 sensibilidad social
+3143 blanco militar
+3144 materia politico
+3145 carga emocional
+3146 zona riesgo
+3147 manifestacion callejero
+3148 proyecto minero
+3149 guerra constante
+3150 reforma legislativo
+3151 aportar
+3152 liderazgo
+3153 trafico arma
+3154 ataque guerrillero
+3155 agresion fisico
+3156 presente
+3157 alternativa viable
+3158 mitad
+3159 araucano
+3160 apoyo victima
+3161 condicion historico
+3162 proteccion familia
+3163 necesidad local
+3164 trabajo digno
+3165 via armar
+3166 adquirir conocimiento
+3167 modelo actual
+3168 politica colombia
+3169 vida pleno
+3170 informar
+3171 grupo extremista
+3172 resolucion
+3173 sincretismo religioso
+3174 dimension social
+3175 mensaje
+3176 familia unir
+3177 educacion paz
+3178 ingreso economico
+3179 compra tierra
+3180 ejercicio
+3181 destacamento militar
+3182 mayor oportunidad
+3183 regresar vida
+3184 afrontamiento
+3185 palabra
+3186 zona cultivar
+3187 secuestrar
+3188 entorno familiar
+3189 derecho politico
+3190 identidad etnico
+3191 parecer
+3192 renta ilegal
+3193 dato
+3194 derecho laboral
+3195 conflicto palestino
+3196 dolor
+3197 referente cultural
+3198 plan colombia
+3199 parque nacional
+3200 apoyo internacional
+3201 politica represivo
+3202 recoger
+3203 tradicion ancestral
+3204 autoridad estatal
+3205 jefe maximo
+3206 lucha paz
+3207 lugar especifico
+3208 campo politico
+3209 actividad ilicito
+3210 produccion lechero
+3211 recuperacion memoria
+3212 bando enfrentar
+3213 implicar
+3214 reconciliacion
+3215 proteccion patrimonio
+3216 serrania perija
+3217 acto delictivo
+3218 jerarquia social
+3219 vena
+3220 ayuda internacional
+3221 independencia nacional
+3222 presion social
+3223 atentado terrorista
+3224 derecho colectivo
+3225 igualdad social
+3226 contexto politico
+3227 medicina general
+3228 proceso adaptacion
+3229 progreso social
+3230 productor petroleo
+3231 proceso economico
+3232 derramar sangre
+3233 periodo constitucional
+3234 persona identificar
+3235 reinsercion
+3236 carro blindar
+3237 utilizar
+3238 decision
+3239 identidad cultural
+3240 atentado
+3241 investigador principal
+3242 cambiar
+3243 revelar
+3244 busqueda
+3245 situacion militar
+3246 tarea especifico
+3247 vida dificil
+3248 reserva forestal
+3249 actividad artesanal
+3250 migracion interno
+3251 postular candidato
+3252 sufragio femenino
+3253 grupo religioso
+3254 fuerza insurgente
+3255 tomar rehen
+3256 estrategia politico
+3257 mujer ciudad
+3258 ley amnistia
+3259 semana
+3260 campo militar
+3261 servicio turistico
+3262 codigo conducta
+3263 superar
+3264 pertenecer
+3265 abuso autoridad
+3266 represion policial
+3267 caqueta
+3268 funcion militar
+3269 memoria
+3270 creencia religioso
+3271 derecho comunitario
+3272 experiencia humano
+3273 etnia indigena
+3274 servicio
+3275 trato inhumano
+3276 compartir
+3277 zona periferico
+3278 personeria juridico
+3279 entidad bancario
+3280 actor social
+3281 oxfam
+3282 arma corto
+3283 conflicto politico
+3284 salud humano
+3285 gobierno colombiano
+3286 poblacion referir
+3287 linea rojo
+3288 asunto militar
+3289 ambiente familiar
+3290 panorama nacional
+3291 alto capacidad
+3292 soldado
+3293 entorno social
+3294 estudio economico
+3295 alianza militar
+3296 lengua nativo
+3297 politica nacional
+3298 empresa extranjero
+3299 historia universal
+3300 reforma politico
+3301 produccion agropecuario
+3302 proceso legal
+3303 patrimonio cultural
+3304 calentamiento global
+3305 acto politico
+3306 punto critico
+3307 dignidad humano
+3308 comunidad cientifico
+3309 servicio educativo
+3310 motivo economico
+3311 ambito territorial
+3312 empresa multinacional
+3313 frente
+3314 prisionero politico
+3315 vida urbano
+3316 rol politico
+3317 tema judicial
+3318 debate politico
+3319 principal responsable
+3320 producir
+3321 presencia militar
+3322 economia agricola
+3323 evitar
+3324 modelo economico
+3325 dictadura militar
+3326 terrorismo estado
+3327 efecto positivo
+3328 autoridad militar
+3329 festival internacional
+3330 institucion educativo
+3331 produccion nacional
+3332 tumaco
+3333 educacion universitario
+3334 significar
+3335 comunidad autonomo
+3336 aprender
+3337 implementar
+3338 critica social
+3339 apoyo aereo
+3340 carrera universitario
+3341 hospital militar
+3342 cadena perpetuo
+3343 persona discapacidad
+3344 grupo humano
+3345 participacion internacional
+3346 edad temprano
+3347 eleccion legislativo
+3348 avance
+3349 punto maximo
+3350 caso extremo
+3351 ayuda economico
+3352 companero
+3353 partido conservador
+3354 ejercito estadounidense
+3355 vida diario
+3356 galeria arte
+3357 administracion justicia
+3358 administracion publico
+3359 equipo tecnico
+3360 ambito nacional
+3361 luz
+3362 comisionado
+3363 falta
+3364 perpetrador
+3365 palacio justicia
+3366 firma
+3367 cargo
+3368 magistrado
+3369 guerra guerrilla
+3370 organizar
+3371 dificultad
+3372 dignidad
+3373 fuerte
+3374 asedar
+3375 movimiento
+3376 permanente
+3377 causar
+3378 campo
+3379 viernes
+3380 formacion
+3381 abril
+3382 jefe
+3383 codhes
+3384 barrio
+3385 marzo
+3386 importancia
+3387 facilitar
+3388 abordar
+3389 negociacion
+3390 plantear
+3391 indiciado
+3392 comun
+3393 subcomision
+3394 demostrar
+3395 ganar
+3396 ataque
+3397 visibilizando
+3398 violento
+3399 sostener
+3400 catatumbo
+3401 dano
+3402 idea
+3403 local
+3404 prevencion
+3405 dignificante
+3406 agresion
+3407 cesarense
+3408 actual
+3409 fuego bilateral
+3410 paz territorial
+3411 resilente
+3412 declarar
+3413 reclamar
+3414 funcionario
+3415 afectacion
+3416 beneficio mujer
+3417 tierra despojar
+3418 facilista
+3419 despojador
+3420 bien
+3421 formar
+3422 mataje
+3423 reducir
+3424 febrero
+3425 intereclesial
+3426 humanitario
+3427 equipo
+3428 silencio
+3429 sistema
+3430 chiricoa
+3431 pertencer
+3432 sevicia
+3433 jurubira
+3434 veinteaneras
+3435 putumayo
+3436 agosto
+3437 visibilizada
+3438 abusar
+3439 hostigamiento
+3440 aumento
+3441 operar
+3442 agencia
+3443 partido
+3444 culpabilizan
+3445 golpazo
+3446 caliginoso
+3447 impedir
+3448 judicializar
+3449 empoderado
+3450 conteniente
+3451 creacion
+3452 acceder
+3453 tiritar
+3454 ejemplificante
+3455 sector
+3456 mototaxismo
+3457 recomendacion
+3458 oficina
+3459 desafio
+3460 real
+3461 ciudadano
+3462 respuesta
+3463 crecer
+3464 corporacion
+3465 reparar
+3466 exponer
+3467 suponer
+3468 cesar
+3469 foro
+3470 mujer chocoanas
+3471 consecuencia
+3472 relato
+3473 analisis
+3474 via
+3475 cultural
+3476 caracter
+3477 logro
+3478 humano
+3479 excluir
+3480 comunitario
+3481 comunicado
+3482 periodista
+3483 cumplimiento
+3484 personal
+3485 tortura
+3486 defensa
+3487 futuro
+3488 materia
+3489 indemnizacion
+3490 sentar
+3491 fecha
+3492 surgir
+3493 evidenciar
+3494 extorsion
+3495 igualdad
+3496 frontera
+3497 popular
+3498 jornada
+3499 congreso
+3500 distinto
+3501 producto
+3502 psicosocial
+3503 garantia
+3504 registro
+3505 romper
+3506 herramienta
+3507 tocar
+3508 resignificar
+3509 panorama
+3510 abandonar
+3511 involucrar
+3512 verificacion
+3513 bolivar
+3514 combatiente
+3515 concluir
+3516 simana
+3517 investigar
+3518 taller
+3519 servir
+3520 resultar
+3521 anunciar
+3522 institucionalidad
+3523 alianza
+3524 directo
+3525 convocar
+3526 ofrecer
+3527 conocimiento
+3528 efecto
+3529 discriminacion
+3530 puerta
+3531 operacion
+3532 territorial
+3533 termino
+3534 incluyentes
+3535 fenomeno
+3536 publicar
+3537 dinamica
+3538 gracia
+3539 narcotrafico
+3540 fisico
+3541 aplicacion
+3542 analizar
+3543 contrario
+3544 integrar
+3545 sobreviviente
+3546 encargar
+3547 rol
+3548 incrementar
+3549 exalcalde
+3550 emitir
+3551 departamental
+3552 pacifico
+3553 principio
+3554 obstaculo
+3555 combate
+3556 trasladar
+3557 sur
+3558 presunto
+3559 antiguo
+3560 reintegracion
+3561 pena
+3562 julio
+3563 retaliacion
+3564 enfoque
+3565 inicio
+3566 impulsar
+3567 problematica
+3568 septiembre
+3569 aspecto
+3570 imponer
+3571 vivienda
+3572 esposo
+3573 cev
+3574 defensoria
+3575 golpear
+3576 disputa
+3577 entrega
+3578 agente
+3579 disminuir
+3580 paracos
+3581 sistematico
+3582 sujeto
+3583 cabeza
+3584 perdonar
+3585 temor
+3586 acercar
+3587 desaparecer
+3588 aparecer
+3589 advertir
+3590 facil
+3591 someter
+3592 obtener
+3593 persistir
+3594 blanco
+3595 quibdo
+3596 delegado
+3597 sobrevivir
+3598 aecid
+3599 mision
+3600 baudo
+3601 exsecretario
+3602 pobreza
+3603 factor
+3604 extender
+3605 sistematicidad
+3606 ocupar
+3607 autor
+3608 base
+3609 visita
+3610 asunto
+3611 capital
+3612 fundacion
+3613 diciembre
+3614 constante
+3615 civil
+3616 conmemoracion
+3617 especifico
+3618 acudir
+3619 orientar
+3620 reclutar
+3621 comunicacion
+3622 ayuda
+3623 democracia
+3624 metro
+3625 alias
+3626 consejo
+3627 tarea
+3628 masacre
+3629 nacer
+3630 perdida
+3631 insurgencia
+3632 asistir
+3633 reiterar
+3634 fusil
+3635 riosucio
+3636 cuba
+3637 seguro
+3638 permear
+3639 vocero
+3640 monte
+3641 decreto
+3642 estructura
+3643 inclusion
+3644 plan marco
+3645 entrar
+3646 vulneracion
+3647 investigador
+3648 correr
+3649 marcar
+3650 ingresar
+3651 refugiado
+3652 mejorar
+3653 apuesta
+3654 celebrar
+3655 elaborar
+3656 protagonista
+3657 jueves
+3658 participante
+3659 insistir
+3660 repeticion
+3661 padecer
+3662 definir
+3663 magdalena
+3664 legal
+3665 pequeno
+3666 sentencia
+3667 enviar
+3668 casanare
+3669 dedicar
+3670 serie
+3671 detallar
+3672 mirar
+3673 interno
+3674 municipal
+3675 cultura
+3676 pretender
+3677 controlar
+3678 acompanamiento
+3679 enfrentamiento
+3680 mencionar
+3681 elemento
+3682 detener
+3683 aprobar
+3684 interes
+3685 narrar
+3686 balacera
+3687 mapiripan
+3688 calle
+3689 multiple
+3690 encuesta
+3691 invisibilizacion
+3692 autonomia
+3693 orden
+3694 uribismo
+3695 tierralta
+3696 preocupante
+3697 incremento
+3698 circunstancia
+3699 autorreconocimiento
+3700 gualanday
+3701 oriente
+3702 preocupar
+3703 padre
+3704 cansona
+3705 perdon
+3706 union
+3707 confiar
+3708 toma
+3709 proponer
+3710 actor
+3711 peso
+3712 rosa
+3713 ausencia
+3714 sicariato
+3715 integralidad
+3716 duda
+3717 regional
+3718 expresion
+3719 desadaptativo
+3720 eliminacion
+3721 empoderar
+3722 veredal
+3723 padecientes
+3724 cordoba
+3725 repelon
+3726 olvidar
+3727 acoger
+3728 pnis
+3729 reacomodacion
+3730 embazar
+3731 fortalecimiento
+3732 territorializada
+3733 solidaria
+3734 profamilia
+3735 linea
+3736 reunion
+3737 reenganche
+3738 pleno
+3739 acabar
+3740 borradura
+3741 sequias
+3742 reconstruccion
+3743 soponcio
+3744 incoder
+3745 sisben
+3746 testiga
+3747 limitar
+3748 parcializada
+3749 recuperar
+3750 economia
+3751 ensenar
+3752 culpa
+3753 tunjuelito
+3754 alcalde
+3755 instancia
+3756 plan
+3757 preocupacion
+3758 vigente
+3759 sarare
+3760 caldas
+3761 resolver
+3762 clase
+3763 prevenir
+3764 leer
+3765 reconfiguracion
+3766 clave
+3767 profesional
+3768 papa
+3769 afrontar
+3770 origen
+3771 teusaquillo
+3772 vincular
+3773 infraestructura
+3774 mama
+3775 desproporcionar
+3776 precisar
+3777 preguntar
+3778 concentrar
+3779 fila
+3780 dinero
+3781 pagar
+3782 cerrar
+3783 disposicion
+3784 resistencia
+3785 intervencion
+3786 huir
+3787 convivencia
+3788 capacitacion
+3789 debate
+3790 inequidad
+3791 area
+3792 escuela
+3793 rural
+3794 asistente
+3795 sostenible
+3796 abalear
+3797 relatar
+3798 urbano
+3799 siglo
+3800 arauco
+3801 privar
+3802 concreto
+3803 llegada
+3804 experto
+3805 asistencia
+3806 manana
+3807 resto
+3808 corresponder
+3809 vecino
+3810 puesto
+3811 chipata
+3812 antipersonales
+3813 acnur
+3814 sabado
+3815 financiar
+3816 caminar
+3817 incidencia
+3818 disponer
+3819 agenda
+3820 objeto
+3821 invitar
+3822 traer
+3823 adecuar
+3824 chocoano
+3825 violentar
+3826 opinion
+3827 revolucionario
+3828 motivo
+3829 aporte
+3830 ordenar
+3831 individual
+3832 etapa
+3833 brigada
+3834 silenciar
+3835 continuo
+3836 calificar
+3837 reporte
+3838 localidad
+3839 ecuador
+3840 miercoles
+3841 solucion
+3842 vision
+3843 provocar
+3844 habitar
+3845 fumigacion
+3846 respetar
+3847 significativo
+3848 reclutamiento
+3849 capturar
+3850 priorizacion
+3851 diferencia
+3852 sede
+3853 perspectiva
+3854 cocalero
+3855 incluyente
+3856 obliteracion
+3857 nacion
+3858 deseo
+3859 lunes
+3860 parar
+3861 exigibilidad
+3862 beneficio
+3863 enemigo
+3864 movilizacion
+3865 cercano
+3866 mandar
+3867 aceptar
+3868 diseno
+3869 opcion
+3870 rechazar
+3871 sancionar
+3872 disparar
+3873 cubara
+3874 respeto
+3875 tribunal
+3876 brecha
+3877 entorno
+3878 interlocucion
+3879 patron
+3880 estadistica
+3881 peligro
+3882 rojo
+3883 coordinar
+3884 preparar
+3885 arenera
+3886 vejamen
+3887 desmilitarizacion
+3888 convocatoria
+3889 ensanar
+3890 agradecer
+3891 mina
+3892 soportar
+3893 vulnerar
+3894 jugar
+3895 relator
+3896 activo
+3897 buenaventura
+3898 mirada
+3899 solicitar
+3900 infancia
+3901 comprender
+3902 beneficiar
+3903 regresar
+3904 plataforma
+3905 capitulo
+3906 duro
+3907 juzgar
+3908 norma
+3909 otorgar
+3910 desescolarizacion
+3911 ruralidad
+3912 calcular
+3913 paneles
+3914 castigar
+3915 puerto
+3916 apostar
+3917 desconocer
+3918 proposito
+3919 cotidianidad
+3920 kilometro
+3921 favor
+3922 vulnerabilidad
+3923 anadir
+3924 material
+3925 femenino
+3926 corregimiento
+3927 adoptar
+3928 cuidado
+3929 central
+3930 fuente
+3931 expresidente
+3932 torturar
+3933 interesar
+3934 perpetrar
+3935 intercambio
+3936 reconstruir
+3937 manejar
+3938 soacha
+3939 discusion
+3940 agredir
+3941 reflejar
+3942 lista
+3943 recodar
+3944 atacar
+3945 exito
+3946 instalar
+3947 autodefensa
+3948 conversatorios
+3949 truando
+3950 equitas
+3951 castigo
+3952 tasa
+3953 ciudadania
+3954 acuaparque
+3955 pobre
+3956 interiorizo
+3957 escribir
+3958 mundial
+3959 amigo
+3960 permanecer
+3961 proveniente
+3962 polarizantes
+3963 conadi
+3964 noche
+3965 diferencial
+3966 delinquir
+3967 confianza
+3968 indefectible
+3969 declaracion
+3970 marchar
+3971 guadualito
+3972 masa
+3973 flagelo
+3974 narinense
+3975 derribamiento
+3976 marimbero
+3977 oficial
+3978 minuto
+3979 bugalagrande
+3980 intimidacion
+3981 presentacion
+3982 promedio
+3983 masivo
+3984 oriente antioqueno
+3985 negar
+3986 viudas
+3987 desempenar
+3988 repetir
+3989 enviciar
+3990 urabenos
+3991 prevalencia
+3992 desamarrar
+3993 tecnico
+3994 confrontacion
+3995 estimar
+3996 masculinizada
+3997 juridico
+3998 progreso
+3999 chongos
+4000 chocoana
+4001 escombrera
+4002 subrayar
+4003 crecimiento
+4004 gobernador
+4005 adscribir
+4006 centrar
+4007 terreno
+4008 herir
+4009 mando
+4010 estigmatizar
+4011 derivar
+4012 demanda
+4013 reafirmar
+4014 agresor
+4015 activista
+4016 dignificar
+4017 guardar
+4018 venezolano
+4019 garante
+4020 negociar
+4021 elegir
+4022 posicion
+4023 epoca
+4024 confesar
+4025 doloroso
+4026 negro
+4027 delegacion
+4028 poblador
+4029 masculinidad
+4030 callar
+4031 dimension
+4032 estatal
+4033 acordar
+4034 petroleo
+4035 bajar
+4036 carcel
+4037 desproteccion
+4038 visitar
+4039 vivo
+4040 representacion
+4041 identidad
+4042 exacerbar
+4043 academico
+4044 expectativa
+4045 articulo
+4046 pregunta
+4047 comienzo
+4048 sala
+4049 ratificar
+4050 observar
+4051 accionar
+4052 ingreso
+4053 lanzamiento
+4054 estudiar
+4055 arrojar
+4056 agrupar
+4057 pacto
+4058 ambito
+4059 enfasis
+4060 solicitud
+4061 limitacion
+4062 rincon
+4063 estudiante
+4064 existencia
+4065 guaviare
+4066 comida
+4067 viaje
+4068 erradicacion
+4069 alarmante
+4070 amar
+4071 enfocar
+4072 santander
+4073 discutir
+4074 ilegal
+4075 articular
+4076 terror
+4077 plebiscito
+4078 basico
+4079 prueba
+4080 denominar
+4081 raiz
+4082 sembrar
+4083 medico
+4084 emprender
+4085 reivindicar
+4086 boyaca
+4087 sufrimiento
+4088 alternativa
+4089 disenar
+4090 fondo
+4091 tradicional
+4092 desarme
+4093 discriminar
+4094 finca
+4095 aprovechar
+4096 entrevista
+4097 esclarecimiento
+4098 feminista
+4099 escoger
+4100 captura
+4101 humanidad
+4102 extremo
+4103 promotor
+4104 visible
+4105 embarazo
+4106 promocion
+4107 auditorio
+4108 pareja
+4109 soez
+4110 basar
+4111 frecuente
+4112 interior
+4113 dane
+4114 conversacion
+4115 generalizar
+4116 sueno
+4117 propender
+4118 hechos
+4119 espectador
+4120 desminar
+4121 preferir
+4122 entrevistar
+4123 diferenciar
+4124 ciclo
+4125 transicion
+4126 confirmar
+4127 dictar
+4128 movil
+4129 defender
+4130 desarraigo
+4131 levantar
+4132 wayuu
+4133 agua
+4134 transito
+4135 torre
+4136 devolver
+4137 constructor
+4138 camarada
+4139 adulto
+4140 cajambre
+4141 dignificacion
+4142 legislacion
+4143 cara
+4144 disminucion
+4145 mercado
+4146 digital
+4147 combatir
+4148 reforzar
+4149 complejo
+4150 conversar
+4151 entero
+4152 guajiro
+4153 muerto
+4154 citar
+4155 america
+4156 coger
+4157 barrera
+4158 determinar
+4159 guahibos
+4160 zozobra
+4161 audiencia
+4162 cantidad
+4163 enfatizar
+4164 endilgar
+4165 diario
+4166 coca
+4167 sena
+4168 cooperativo
+4169 narcotraficante
+4170 similar
+4171 departir
+4172 lagrima
+4173 amplio
+4174 destrabar
+4175 villavicencio
+4176 torno
+4177 conclusion
+4178 tejer
+4179 cupica
+4180 beneficiario
+4181 chapecoense
+4182 elenos
+4183 actualidad
+4184 equitativo
+4185 solidaridad
+4186 acusar
+4187 traducir
+4188 corte
+4189 sensibilizacion
+4190 asertivo
+4191 reflexionar
+4192 llanero
+4193 almojabanas
+4194 europeo
+4195 plurietnico
+4196 providente
+4197 cali
+4198 presidencial
+4199 transversalidad
+4200 caracteristica
+4201 remilitarizacion
+4202 obligacion
+4203 testigo
+4204 golpe
+4205 homogenea
+4206 resocializacion
+4207 llorar
+4208 recorrido
+4209 inenarrable
+4210 alerta
+4211 serio
+4212 vivenciado
+4213 hectarea
+4214 reflexion
+4215 curso
+4216 laboral
+4217 apuntar
+4218 integridad
+4219 informalidad
+4220 gloria
+4221 espanol
+4222 noticia
+4223 reproductora
+4224 visibilizan
+4225 militarizacion
+4226 personeria
+4227 presion
+4228 puntualizar
+4229 dijin
+4230 adquirir
+4231 cantagallo
+4232 retorno
+4233 nombrar
+4234 pactar
+4235 critica
+4236 tolima
+4237 comprar
+4238 enorme
+4239 borrar
+4240 enmarcar
+4241 socioeconomico
+4242 priorizar
+4243 puesta
+4244 psicologo
+4245 abogado
+4246 politiqueria
+4247 prioridad
+4248 valiente
+4249 vista
+4250 grito
+4251 naturaleza
+4252 atribuir
+4253 prever
+4254 reacomodo
+4255 disfrutar
+4256 simbolo
+4257 sitio
+4258 conmemorar
+4259 tragedia
+4260 peticion
+4261 compania
+4262 actuacion
+4263 solucionar
+4264 martes
+4265 metodo
+4266 reforma
+4267 irrespetuoso
+4268 acogida
+4269 enlodar
+4270 justo
+4271 comunal
+4272 desear
+4273 represalia
+4274 yondo
+4275 atravesar
+4276 motivar
+4277 viajar
+4278 terrible
+4279 colchoneta
+4280 celular
+4281 quitar
+4282 votar
+4283 funcionar
+4284 totalidad
+4285 sonar
+4286 consejero
+4287 ejemplaridad
+4288 noruego
+4289 cargar
+4290 calidad
+4291 coincidir
+4292 emocional
+4293 montana
+4294 voto
+4295 afectado
+4296 insumo
+4297 doler
+4298 productivo
+4299 colegio
+4300 droga
+4301 transversal
+4302 actuar
+4303 ocasionar
+4304 esclavizacion
+4305 dios
+4306 consolidar
+4307 utilizacion
+4308 bloque
+4309 comer
+4310 capaz
+4311 resistir
+4312 coordinacion
+4313 episodio
+4314 merecer
+4315 enterar
+4316 rico
+4317 restaurativo
+4318 norte
+4319 condenar
+4320 complejizar
+4321 chapinero
+4322 carta
+4323 feminidad
+4324 embera
+4325 vender
+4326 guaina
+4327 abuso
+4328 vestir
+4329 obra
+4330 cierre
+4331 persecucion
+4332 manifestacion
+4333 profundo
+4334 manicure
+4335 retornar
+4336 albergue
+4337 prestar
+4338 faltar
+4339 genocidio
+4340 voluntad
+4341 conducta
+4342 lanzar
+4343 estrategico
+4344 institucional
+4345 desigualdad
+4346 invisible
+4347 superacion
+4348 marido
+4349 izquierda
+4350 vulnerable
+4351 bienestar
+4352 educativo
+4353 despojo
+4354 preservar
+4355 recrudecer
+4356 valorar
+4357 grafittis
+4358 psicologia
+4359 retirar
+4360 impulso
+4361 impactar
+4362 cita
+4363 atentar
+4364 panfleto
+4365 conducir
+4366 cadaver
+4367 alertar
+4368 cultivo
+4369 buseta
+4370 salgar
+4371 machista
+4372 apropiacion
+4373 aereo
+4374 dormir
+4375 figurar
+4376 desaparecido
+4377 alimento
+4378 igualitario
+4379 importar
+4380 refinanciar
+4381 simbolico
+4382 puente
+4383 connivencia
+4384 mediar
+4385 consejeria
+4386 rebelde
+4387 implementador
+4388 refugiar
+4389 establecimiento
+4390 refugio
+4391 humillacion
+4392 esclarecer
+4393 organizativo
+4394 respectivo
+4395 explotacion
+4396 caracterizar
+4397 premio
+4398 escolta
+4399 arremetida
+4400 adicional
+4401 desespero
+4402 ampliar
+4403 montelibano
+4404 demandar
+4405 capacitar
+4406 destino
+4407 ojo
+4408 camilo
+4409 posicionamiento
+4410 pie
+4411 inconsulta
+4412 conciencia
+4413 sexo
+4414 intensificar
+4415 contradictores
+4416 consistir
+4417 debilitar
+4418 fruto
+4419 comportamiento
+4420 vital
+4421 meter
+4422 recorrer
+4423 comuna
+4424 division
+4425 durar
+4426 premiar
+4427 comunicar
+4428 boyacenses
+4429 continuacion
+4430 forzar
+4431 realizacion
+4432 monitoreo
+4433 apostillar
+4434 facultad
+4435 equidad
+4436 senalamiento
+4437 concepto
+4438 microempresario
+4439 organismo
+4440 moreno
+4441 risaralda
+4442 agravar
+4443 respaldo
+4444 video
+4445 intersubjetividad
+4446 imputacion
+4447 superior
+4448 produccion
+4449 espana
+4450 grado
+4451 proyectar
+4452 admitir
+4453 comparar
+4454 par
+4455 exigencia
+4456 conformacion
+4457 frenar
+4458 semestre
+4459 instrumento
+4460 republica
+4461 alimentacion
+4462 subversivo
+4463 velar
+4464 verguenza
+4465 sustitucion
+4466 aberrante
+4467 horror
+4468 describir
+4469 alusivo
+4470 decretar
+4471 mandatario
+4472 revisar
+4473 influencia
+4474 comparacion
+4475 referencia
+4476 suscribir
+4477 adolorido
+4478 carretera
+4479 estructural
+4480 tranquilidad
+4481 maltrato
+4482 hostilidad
+4483 subir
+4484 apropiar
+4485 incertidumbre
+4486 inmediato
+4487 hacendar
+4488 alcaldia
+4489 dialogar
+4490 drama
+4491 proporcion
+4492 desaparicion
+4493 dominio
+4494 secretaria
+4495 funcionamiento
+4496 destinar
+4497 partida
+4498 ascender
+4499 potenciar
+4500 malo
+4501 aceleramiento
+4502 gravable
+4503 perpetuar
+4504 batallon
+4505 ropa
+4506 dilucidar
+4507 texto
+4508 instalacion
+4509 poblar
+4510 orilla
+4511 indagar
+4512 aplicar
+4513 aproposito
+4514 valer
+4515 libro
+4516 caber
+4517 barrancabermeja
+4518 docente
+4519 postulacion
+4520 intencion
+4521 linar
+4522 guaimaro
+4523 transitar
+4524 rodear
+4525 agudizar
+4526 administrativo
+4527 jurisdiccion
+4528 financiacion
+4529 senador
+4530 correspondiente
+4531 caer
+4532 completo
+4533 destruir
+4534 respetuoso
+4535 corrupcion
+4536 desconfianza
+4537 caranal
+4538 comercial
+4539 disidencia
+4540 cundinamarca
+4541 confinamiento
+4542 cacao
+4543 aborto
+4544 inquietud
+4545 componente
+4546 muestra
+4547 echar
+4548 comercio
+4549 valentia
+4550 cautiverio
+4551 documental
+4552 percepcion
+4553 comentario
+4554 esposas
+4555 eleccion
+4556 tradicionales
+4557 cumbre
+4558 practicar
+4559 periodico
+4560 instituto
+4561 discurso
+4562 maximo
+4563 experimentar
+4564 particularidad
+4565 rostro
+4566 minimo
+4567 herida
+4568 guasdualito
+4569 continuidad
+4570 alma
+4571 definitivo
+4572 autoestima
+4573 suministrar
+4574 auc
+4575 simiti
+4576 comunitaristas
+4577 camara
+4578 paralelo
+4579 extinto
+4580 consecucion
+4581 resarcimiento
+4582 color
+4583 distraido
+4584 rastrojo
+4585 varon
+4586 delincuencial
+4587 microfutbol
+4588 respaldar
+4589 suspender
+4590 imaginario
+4591 criticar
+4592 movilidad
+4593 distingo
+4594 libre
+4595 mira
+4596 cobrar
+4597 subregion
+4598 proveer
+4599 oir
+4600 uariv
+4601 amor
+4602 generador
+4603 corto
+4604 tematica
+4605 sobrevivencia
+4606 confinar
+4607 recrudecimiento
+4608 desestructuracion
+4609 cruzar
+4610 olvido
+4611 robar
+4612 plata
+4613 reorientar
+4614 consignar
+4615 cartagena
+4616 liberacion
+4617 feliz
+4618 movilizar
+4619 compareciente
+4620 embarazar
+4621 epl
+4622 orinoquia
+4623 corazon
+4624 multiplicar
+4625 tender
+4626 sexualidad
+4627 desangrar
+4628 resarcir
+4629 nota
+4630 procedimiento
+4631 formulacion
+4632 previo
+4633 rechazo
+4634 afueras
+4635 ituango
+4636 aguablanca
+4637 mente
+4638 rumbo
+4639 tendencia
+4640 fase
+4641 cotidiano
+4642 fronterizo
+4643 comprension
+4644 formal
+4645 contenido
+4646 urgente
+4647 ilicito
+4648 orientacion
+4649 entrada
+4650 homofobica
+4651 desarmar
+4652 guerrero
+4653 legitimar
+4654 domingo
+4655 tristeza
+4656 carrera
+4657 positivo
+4658 huella
+4659 reivindicacion
+4660 aproximacion
+4661 inhumanidad
+4662 comentar
+4663 abuelo
+4664 mandato
+4665 asesor
+4666 imagen
+4667 encabezar
+4668 releer
+4669 medico legal
+4670 direccion
+4671 balance
+4672 acumular
+4673 indice
+4674 contemplar
+4675 normalizacion
+4676 latino
+4677 incorporacion
+4678 raza
+4679 informante
+4680 divulgar
+4681 arrancar
+4682 salida
+4683 culpable
+4684 dominar
+4685 posicionar
+4686 cooperacion
+4687 corresponsable
+4688 radio
+4689 marino
+4690 ajeno
+4691 vacio
+4692 cruz
+4693 juicio
+4694 domestico
+4695 cuidar
+4696 duradero
+4697 probatorio
+4698 aclarar
+4699 ridicula
+4700 coyuntura
+4701 neiva
+4702 reeducar
+4703 practico
+4704 supervivencia
+4705 eliminar
+4706 agudizacion
+4707 aniversario
+4708 planificacion
+4709 agricultura
+4710 verificar
+4711 fallecido
+4712 presumir
+4713 evidente
+4714 develar
+4715 copresidente
+4716 exclusivo
+4717 crisis
+4718 explotar
+4719 parapolitico
+4720 suma
+4721 allanamiento
+4722 fiscal
+4723 chico
+4724 electoral
+4725 empresario
+4726 diagnostico
+4727 silla
+4728 pertinente
+4729 barbarie
+4730 encaminar
+4731 boca
+4732 penal
+4733 transexual
+4734 plenipotenciario
+4735 aguazul
+4736 alejar
+4737 videollamada
+4738 consultar
+4739 mover
+4740 redoblar
+4741 finalizar
+4742 agricola
+4743 recuperacion
+4744 empecer
+4745 acompanante
+4746 viudo
+4747 opinar
+4748 universo
+4749 patriotico
+4750 empleo
+4751 cuestionar
+4752 incorporar
+4753 distrito
+4754 carretear
+4755 titular
+4756 estigma
+4757 numeroso
+4758 desfallecer
+4759 crueldad
+4760 interiorizada
+4761 quito
+4762 fecode
+4763 juzgamiento
+4764 residente
+4765 engrosar
+4766 intimidar
+4767 naturalizar
+4768 pilar
+4769 favorecer
+4770 materializar
+4771 determinante
+4772 mariposa
+4773 decena
+4774 masculino
+4775 simultaneo
+4776 transporte
+4777 pico
+4778 abordaje
+4779 valle
+4780 contener
+4781 arbol
+4782 ideologia
+4783 normativo
+4784 rescatar
+4785 afirmativo
+4786 proferir
+4787 entereza
+4788 inversion
+4789 palo
+4790 actitud
+4791 punible
+4792 frase
+4793 amedrentar
+4794 tramitar
+4795 instrumentalizar
+4796 justificar
+4797 religioso
+4798 muchacho
+4799 teatro
+4800 icbf
+4801 sierra
+4802 alzar
+4803 piscicultura
+4804 integracion
+4805 apartar
+4806 desempleo
+4807 guainia
+4808 secundar
+4809 presionar
+4810 odio
+4811 porcicultura
+4812 sancion
+4813 juez
+4814 hospital
+4815 campamento
+4816 ejecutar
+4817 vinculo
+4818 observatorio
+4819 inmenso
+4820 atentatorio
+4821 incumplimiento
+4822 madrid
+4823 escapar
+4824 reemplazar
+4825 vencer
+4826 componer
+4827 negocio
+4828 derrotar
+4829 pensamiento
+4830 logica
+4831 habilidad
+4832 canal
+4833 satisfacer
+4834 doble
+4835 platano
+4836 falencias
+4837 costa
+4838 embajador
+4839 arroz
+4840 escena
+4841 encargado
+4842 conchar
+4843 ejecucion
+4844 enfermedad
+4845 rango
+4846 margen
+4847 tallerista
+4848 inferir
+4849 version
+4850 soler
+4851 satisfaccion
+4852 clientelista
+4853 sentenciar
+4854 expedir
+4855 rama
+4856 riqueza
+4857 abigeato
+4858 escala
+4859 atrever
+4860 temprano
+4861 virginidad
+4862 presenciar
+4863 comodato
+4864 balsero
+4865 maltratar
+4866 afianzar
+4867 uniformar
+4868 uraba
+4869 liberar
+4870 depender
+4871 posterior
+4872 guanabano
+4873 negociador
+4874 contabilizar
+4875 trato
+4876 conculcar
+4877 salida negociar
+4878 etnia
+4879 carbon
+4880 propiedad
+4881 disparo
+4882 regulacion
+4883 especializar
+4884 apertura
+4885 asentamiento
+4886 condena
+4887 secuela
+4888 temporal
+4889 novedoso
+4890 parque
+4891 eficaz
+4892 vallenatos
+4893 hermoso
+4894 turismo
+4895 sombra
+4896 alirio
+4897 incidir
+4898 remitir
+4899 global
+4900 reaccion
+4901 merced
+4902 tratamiento
+4903 reserva
+4904 caucana
+4905 denunciado
+4906 chigorodo
+4907 inasistencia
+4908 sobrellevar
+4909 funcion
+4910 excepcional
+4911 ciencia
+4912 heroina
+4913 profundizar
+4914 poseer
+4915 bebe
+4916 indemnizatorio
+4917 constitucion
+4918 magnitud
+4919 caloto
+4920 modalidad
+4921 animo
+4922 consigna
+4923 agobiar
+4924 diverso
+4925 ocurrencia
+4926 iglesia
+4927 encubridor
+4928 trauma
+4929 evidencia
+4930 seleccionar
+4931 representativo
+4932 erradicar
+4933 videoconferencia
+4934 captores
+4935 delictivo
+4936 recurrente
+4937 prolongar
+4938 participativo
+4939 encadenar
+4940 activar
+4941 sucre
+4942 invitado
+4943 convencer
+4944 manejo
+4945 gestion
+4946 multipartidario
+4947 posibilitar
+4948 plazo
+4949 paisas
+4950 oscuro
+4951 conllevar
+4952 aguijonear
+4953 trocha
+4954 digno
+4955 exposicion
+4956 sensibilizar
+4957 restitucion
+4958 reduccion
+4959 venta
+4960 patriarcado
+4961 intervenir
+4962 pieza
+4963 tregua
+4964 retener
+4965 moto
+4966 francia
+4967 eventual
+4968 imperar
+4969 trabajador
+4970 profesor
+4971 machismo
+4972 reproductivo
+4973 contribucion
+4974 implicacion
+4975 reasentar
+4976 influir
+4977 obrero
+4978 cuestion
+4979 cazuca
+4980 recomendar
+4981 agricultor
+4982 escogencia
+4983 indole
+4984 voluntario
+4985 inteligencia
+4986 patriarcal
+4987 etnico
+4988 radicar
+4989 concretizar
+4990 atrato
+4991 levantamiento
+4992 disidente
+4993 amanecer
+4994 concebir
+4995 restablecimiento
+4996 consideracion
+4997 energetico
+4998 antidisturbios
+4999 sexista
+5000 separar
+5001 cocam
+5002 apalancar
+5003 explicito
+5004 victimiza
+5005 empresa
+5006 cautelar
+5007 andar
+5008 rescate
+5009 replicar
+5010 perfil
+5011 colaborar
+5012 tiro
+5013 apartado
+5014 indispensable
+5015 brutal
+5016 sostenimiento
+5017 propinar
+5018 allegado
+5019 desmonte
+5020 subdirector
+5021 escalamiento
+5022 incursion
+5023 carecer
+5024 gaitana
+5025 desplegar
+5026 transmitir
+5027 currulao
+5028 artesania
+5029 colaboracion
+5030 garrotazo
+5031 protocolo
+5032 enlistarse
+5033 chirriar
+5034 problematizar
+5035 trasegar
+5036 connacionales
+5037 modelo
+5038 especie
+5039 tipificar
+5040 fotografico
+5041 degradante
+5042 pintar
+5043 desconocimiento
+5044 confeccion
+5045 descartables
+5046 infantil
+5047 tolerancia
+5048 marginalidad
+5049 criminal
+5050 vivencia
+5051 elevar
+5052 invitacion
+5053 postular
+5054 convivir
+5055 proporcionar
+5056 abogar
+5057 fe
+5058 gallina
+5059 academia
+5060 traumatico
+5061 alentador
+5062 critico
+5063 indulto
+5064 lesbiana
+5065 comparecer
+5066 inseguridad
+5067 atroz
+5068 amenazante
+5069 imprescindible
+5070 negligencia
+5071 compatriota
+5072 concejal
+5073 acontecimiento
+5074 enfermero
+5075 ninez
+5076 protestar
+5077 agroturismo
+5078 forense
+5079 cajibio
+5080 frecuencia
+5081 maestro
+5082 creencia
+5083 provenir
+5084 complicar
+5085 indicador
+5086 ahistorico
+5087 claridad
+5088 irreparable
+5089 recuerdo
+5090 invisibilidad
+5091 embajada
+5092 situar
+5093 monitoreando
+5094 fundador
+5095 marca
+5096 europa
+5097 decomiso
+5098 medicamento
+5099 marginacion
+5100 persistencia
+5101 alternativo
+5102 clamar
+5103 sacama
+5104 prestante
+5105 desagregar
+5106 millar
+5107 columna
+5108 eje
+5109 bisuteria
+5110 sentimiento
+5111 ganador
+5112 desventaja
+5113 peru
+5114 gratis
+5115 suerte
+5116 lazo
+5117 regalia
+5118 lenteja
+5119 cucuta
+5120 tecnologia
+5121 pagina
+5122 rato
+5123 motocicleta
+5124 formalizar
+5125 humillar
+5126 babilla
+5127 tocancipa
+5128 aguantar
+5129 salvar
+5130 financiero
+5131 planton
+5132 esconder
+5133 tramite
+5134 proclive
+5135 caserio
+5136 regular
+5137 aniquilamiento
+5138 disputar
+5139 abarrotar
+5140 venganza
+5141 impune
+5142 aislar
+5143 sustentar
+5144 colocar
+5145 inscribir
+5146 africano
+5147 arrebatar
+5148 cafam
+5149 discapacidad
+5150 circular
+5151 votacion
+5152 argumento
+5153 atropello
+5154 terminacion
+5155 relevante
+5156 perseguir
+5157 recurrir
+5158 focalizar
+5159 reinventar
+5160 gravedad
+5161 consciente
+5162 champeta
+5163 nostalgia
+5164 alusion
+5165 preconcepcion
+5166 sostenibilidad
+5167 atlantico
+5168 sugerir
+5169 fontibon
+5170 beneficiado
+5171 asamblea
+5172 charla
+5173 afanador
+5174 vulgar
+5175 asesoria
+5176 pastor
+5177 consolidacion
+5178 desolador
+5179 gubernamental
+5180 promesa
+5181 amarrar
+5182 moral
+5183 lineamiento
+5184 cabecilla
+5185 conferencia
+5186 distancia
+5187 vendedor
+5188 acostar
+5189 sensacion
+5190 intenso
+5191 verde
+5192 pronunciar
+5193 tropa
+5194 pasta
+5195 cicatriz
+5196 incautar
+5197 recopilar
+5198 habitual
+5199 carne
+5200 instar
+5201 articulacion
+5202 avion
+5203 secretario
+5204 orgulloso
+5205 abatir
+5206 desalentador
+5207 descubrir
+5208 convencion
+5209 ensanamiento
+5210 montar
+5211 reclamacion
+5212 incomodo
+5213 relativo
+5214 ipcc
+5215 silencioso
+5216 hallazgo
+5217 paquete
+5218 veeduria
+5219 mellizo
+5220 raizales
+5221 nieto
+5222 disimilar
+5223 alcaldesa
+5224 coadyuvar
+5225 parir
+5226 traumatizar
+5227 fomentar
+5228 lleno
+5229 ministro
+5230 maquina
+5231 huila
+5232 propiciar
+5233 seleccion
+5234 normal
+5235 alarma
+5236 coliseo
+5237 civico
+5238 apreciar
+5239 desbordar
+5240 empalar
+5241 nexo
+5242 rendir
+5243 exhibir
+5244 hallar
+5245 exdirector
+5246 descenso
+5247 latinoamericano
+5248 repudiar
+5249 cadena
+5250 incidente
+5251 distrital
+5252 terrorismo
+5253 potencial
+5254 aprobacion
+5255 filipino
+5256 amparo
+5257 aire
+5258 retiro
+5259 nucleo
+5260 delegar
+5261 trimestre
+5262 gustar
+5263 animar
+5264 formular
+5265 alcance
+5266 librar
+5267 forjador
+5268 desgarrador
+5269 bucaramanga
+5270 caribe
+5271 energia
+5272 subsistir
+5273 relacionamiento
+5274 turistico
+5275 candidato
+5276 normalizar
+5277 sospechoso
+5278 aprendizaje
+5279 cedaw
+5280 electrico
+5281 cuota
+5282 tendientes
+5283 dirigente
+5284 alcancia
+5285 contraste
+5286 suroccidente
+5287 contrainsurgente
+5288 judicial
+5289 interesante
+5290 forzoso
+5291 llano
+5292 util
+5293 televisor
+5294 somatiza
+5295 diligencia
+5296 salvaguardar
+5297 visibilidad
+5298 planear
+5299 semilla
+5300 desunir
+5301 juvenil
+5302 proveeduria
+5303 presupuestal
+5304 respectar
+5305 conflagracion
+5306 delitos
+5307 garantista
+5308 migracion
+5309 motivacion
+5310 legalidad
+5311 aula
+5312 significado
+5313 transformador
+5314 oficio
+5315 mineria
+5316 casco
+5317 agrario
+5318 sociologo
+5319 revolucion
+5320 contacto
+5321 lealtad
+5322 adquisicion
+5323 mediano
+5324 repartir
+5325 atrocidad
+5326 tranquilo
+5327 comisaria
+5328 concentracion
+5329 culpar
+5330 gobernanza
+5331 incentivar
+5332 formula
+5333 subregional
+5334 recaer
+5335 descripcion
+5336 suelo
+5337 ambiente
+5338 conformidad
+5339 planificar
+5340 fallar
+5341 diputado
+5342 debilidad
+5343 carga
+5344 popayan
+5345 socializacion
+5346 solidario
+5347 cubrir
+5348 migrar
+5349 requisito
+5350 tirar
+5351 legalizar
+5352 entorpecer
+5353 transicional
+5354 adopcion
+5355 cuadro
+5356 remover
+5357 resumen
+5358 biodiversidad
+5359 dominacion
+5360 icopor
+5361 regimen
+5362 madrugada
+5363 ceremonia
+5364 afirmacion
+5365 pago
+5366 injusticia
+5367 simple
+5368 elaboracion
+5369 agradecimiento
+5370 reproducir
+5371 afectivo
+5372 efectuar
+5373 recoleccion
+5374 lavada
+5375 panama
+5376 seccional
+5377 organico
+5378 minero
+5379 hurtar
+5380 cafe
+5381 firmeza
+5382 categoria
+5383 reexistir
+5384 guardia
+5385 titulo
+5386 apaciguar
+5387 maternidad
+5388 preciar
+5389 ente
+5390 fuego
+5391 renegociar
+5392 pistola
+5393 hambre
+5394 cruel
+5395 cocinar
+5396 fijo
+5397 emision
+5398 riguroso
+5399 intersectar
+5400 barbaro
+5401 indignante
+5402 juntar
+5403 concretar
+5404 ponedor
+5405 individuo
+5406 guerrera
+5407 percibir
+5408 contrabando
+5409 administracion
+5410 personero
+5411 silenciamiento
+5412 esclavizar
+5413 homenaje
+5414 responsabilizar
+5415 periferia
+5416 pegar
+5417 reactualizar
+5418 desligar
+5419 sondar
+5420 danza
+5421 concertar
+5422 prision
+5423 pedagogia
+5424 editor
+5425 homenajear
+5426 exilio
+5427 dolar
+5428 donacion
+5429 expulsar
+5430 emocion
+5431 oriental
+5432 postraumatico
+5433 virtud
+5434 gritar
+5435 inspirar
+5436 negativo
+5437 desencadenar
+5438 circunscripcion
+5439 alentar
+5440 adversidad
+5441 misoginia
+5442 aprecio
+5443 llamada
+5444 conquista
+5445 resguardo
+5446 firme
+5447 congresista
+5448 turno
+5449 ubicacion
+5450 gobernacion
+5451 miliciano
+5452 desnaturalizar
+5453 acolchado
+5454 mejora
+5455 esquema
+5456 preciso
+5457 asomar
+5458 rapido
+5459 estipular
+5460 leon
+5461 seno
+5462 ambiental
+5463 itinerante
+5464 reaccionar
+5465 conyuge
+5466 desmontar
+5467 sindicar
+5468 democratico
+5469 indiscriminado
+5470 lupa
+5471 prometer
+5472 sucedido
+5473 finalidad
+5474 sesion
+5475 flor
+5476 revindicar
+5477 normativa
+5478 manifiesto
+5479 escalada
+5480 directiva
+5481 cienfuegos
+5482 competencia
+5483 suecia
+5484 escupir
+5485 conviccion
+5486 senado
+5487 ronda
+5488 fotografia
+5489 imperativo
+5490 redefinicion
+5491 sindical
+5492 compra
+5493 bosque
+5494 aguachica
+5495 amistad
+5496 totoro
+5497 periodismo
+5498 escaso
+5499 detectar
+5500 horrendo
+5501 cartel
+5502 constatar
+5503 gesto
+5504 meseta
+5505 interrogar
+5506 sensible
+5507 bienvenida
+5508 sociopolitico
+5509 arremeter
+5510 oponer
+5511 conviertieron
+5512 examen
+5513 liberia
+5514 tension
+5515 cooptacion
+5516 asociado
+5517 detalle
+5518 concernir
+5519 bajeza
+5520 panel
+5521 clorhidrato
+5522 exacerbacion
+5523 inicial
+5524 canada
+5525 enraizar
+5526 arrepentir
+5527 litoral
+5528 prostitucion
+5529 laborar
+5530 maltratador
+5531 cosechero
+5532 felicidad
+5533 medir
+5534 tajante
+5535 gestar
+5536 extrano
+5537 restringir
+5538 eleno
+5539 preacuerdo
+5540 reclamo
+5541 poderoso
+5542 omision
+5543 estructurar
+5544 tanqueta
+5545 despojar
+5546 invertir
+5547 prenez
+5548 convulsionar
+5549 mantenimiento
+5550 financiamiento
+5551 microempresa
+5552 pelicula
+5553 chile
+5554 referente
+5555 horario
+5556 circulo
+5557 perverso
+5558 seguidor
+5559 mitigar
+5560 albergar
+5561 arraigo
+5562 campus
+5563 oleoducto
+5564 geografia
+5565 recalcar
+5566 conexo
+5567 consentimiento
+5568 asentar
+5569 honor
+5570 renovar
+5571 bingo
+5572 exigente
+5573 inventar
+5574 expansion
+5575 noreste
+5576 residencia
+5577 costo
+5578 contactar
+5579 caucasia
+5580 amazona
+5581 mencion
+5582 afp
+5583 infravalorar
+5584 solido
+5585 excepcion
+5586 probar
+5587 prejuicioso
+5588 adolescencia
+5589 desarraigar
+5590 introducir
+5591 emerger
+5592 transportador
+5593 exploratorio
+5594 ultraderecha
+5595 democratizacion
+5596 estable
+5597 conductor
+5598 carcomer
+5599 escozor
+5600 computador
+5601 relectura
+5602 admiracion
+5603 alimentar
+5604 grafico
+5605 acostumbrar
+5606 pertenencia
+5607 megaproyecto
+5608 convocante
+5609 coercion
+5610 prostituir
+5611 distribucion
+5612 preexistir
+5613 presidencia
+5614 cancion
+5615 contundente
+5616 agropecuario
+5617 investigativa
+5618 restaurante
+5619 exodo
+5620 literalidad
+5621 lenguaje
+5622 villate
+5623 preparacion
+5624 occidente
+5625 presupuesto
+5626 impotencia
+5627 radiografia
+5628 bandera
+5629 barranca
+5630 develando
+5631 almuerzo
+5632 bomba
+5633 tiquete
+5634 desincentivar
+5635 ligar
+5636 dispendioso
+5637 hotel
+5638 comprobar
+5639 desamparo
+5640 arracacha
+5641 fugar
+5642 protesta
+5643 bananero
+5644 omnipresente
+5645 camion
+5646 fiesta
+5647 dramatico
+5648 vuelta
+5649 botin
+5650 mileno
+5651 exhortar
+5652 violador
+5653 conjugar
+5654 certeza
+5655 anual
+5656 configurar
+5657 telefono
+5658 comportar
+5659 citadinos
+5660 carro
+5661 mata
+5662 pertinencia
+5663 nava
+5664 medioambiente
+5665 fortaleza
+5666 mar
+5667 autonomo
+5668 conminar
+5669 esencial
+5670 alegria
+5671 reubicacion
+5672 vallecaucana
+5673 rehacer
+5674 permanencia
+5675 facilidad
+5676 adaptar
+5677 natural
+5678 descargar
+5679 refrigerio
+5680 rebuscar
+5681 cansar
+5682 esclavitud
+5683 prohibir
+5684 horizonte
+5685 transfronterizo
+5686 ponderacion
+5687 canadiense
+5688 revelador
+5689 temer
+5690 acusacion
+5691 vicepresidente
+5692 variar
+5693 interactuar
+5694 subjetividad
+5695 empleabilidad
+5696 suspension
+5697 masacrar
+5698 empantanar
+5699 sencillo
+5700 chismoso
+5701 preliminar
+5702 pregonar
+5703 vehiculo
+5704 monzon
+5705 turista
+5706 atemorizar
+5707 escudo
+5708 renacer
+5709 brisa
+5710 dueno
+5711 soledad
+5712 despertar
+5713 grupal
+5714 ganadero
+5715 ruptura
+5716 oportuno
+5717 pernada
+5718 prioritario
+5719 viejo
+5720 anuncio
+5721 abstener
+5722 aturdimiento
+5723 transcender
+5724 estereotipo
+5725 subteniente
+5726 definicion
+5727 interrumpir
+5728 taladro
+5729 trayectoria
+5730 vejatorio
+5731 indiferencia
+5732 garza
+5733 ajustar
+5734 programar
+5735 demora
+5736 complaciente
+5737 insurgente
+5738 grabador
+5739 estabilizar
+5740 legitimidad
+5741 residir
+5742 colonizacion
+5743 legislativo
+5744 pintada
+5745 despliegue
+5746 desconocido
+5747 desposeido
+5748 aterrorizar
+5749 sol
+5750 sobrepasar
+5751 concesion
+5752 negativa
+5753 investigativo
+5754 chontaduro
+5755 fumigar
+5756 extrajudicial
+5757 prenda
+5758 contrato
+5759 desestructurar
+5760 incontable
+5761 rehabilitacion
+5762 gordo
+5763 debil
+5764 espiritu
+5765 advertencia
+5766 lento
+5767 alternacion
+5768 personalidad
+5769 prolongacion
+5770 etnicos
+5771 conservar
+5772 volar
+5773 efectividad
+5774 macho
+5775 estela
+5776 frustracion
+5777 aeronave
+5778 apellido
+5779 imposicion
+5780 puro
+5781 festival
+5782 trofeo
+5783 palacio
+5784 aprension
+5785 multinacional
+5786 emblematico
+5787 perro
+5788 criterio
+5789 trascender
+5790 retomar
+5791 cordillera
+5792 ojalar
+5793 brutalidad
+5794 reservar
+5795 informativo
+5796 brazo
+5797 materializacion
+5798 desicion
+5799 municion
+5800 modificar
+5801 retador
+5802 huitoto
+5803 trajinar
+5804 distincion
+5805 composicion
+5806 twitter
+5807 cano
+5808 marginal
+5809 precariedad
+5810 discriminatorio
+5811 glifosato
+5812 procesar
+5813 intensivo
+5814 victima crimen
+5815 precio
+5816 contrarrestar
+5817 intranquilidad
+5818 solventar
+5819 subordinacion
+5820 morgue
+5821 catedra
+5822 sobrecogedor
+5823 congregar
+5824 cooperativa
+5825 redaccion
+5826 represion
+5827 lectoescritura
+5828 cabecera
+5829 enfatico
+5830 guatemala
+5831 moda
+5832 francotirador
+5833 caguan
+5834 analfabetismo
+5835 lesionar
+5836 enrolamiento
+5837 migrante
+5838 viudez
+5839 costumbre
+5840 quemar
+5841 placa
+5842 mentira
+5843 comerciante
+5844 socorro
+5845 sudoroso
+5846 fundar
+5847 bota
+5848 bautizar
+5849 asignar
+5850 bastar
+5851 aterrizar
+5852 paritario
+5853 gobernar
+5854 arduo
+5855 contario
+5856 incriminar
+5857 directriz
+5858 difundir
+5859 convenir
+5860 reglamentar
+5861 delicado
+5862 bautista
+5863 encerrar
+5864 titubeante
+5865 salao
+5866 escopeta
+5867 intesectorial
+5868 multiculturalidad
+5869 caracol
+5870 belico
+5871 intranquilo
+5872 oposicion
+5873 lactante
+5874 desesperanzar
+5875 cruce
+5876 operativo
+5877 tejar
+5878 bilateral
+5879 satena
+5880 facilitador
+5881 trasversal
+5882 privilegiar
+5883 deficiencia
+5884 transcurrir
+5885 triste
+5886 sufrido
+5887 presa
+5888 posesion
+5889 secretariado
+5890 golpiza
+5891 condicionar
+5892 orientador
+5893 enamoramiento
+5894 deslegitimar
+5895 yanacona
+5896 vinculacion
+5897 paridad
+5898 tigre
+5899 sentimental
+5900 emergencia
+5901 impresion
+5902 selva
+5903 narco
+5904 injerencia
+5905 hueso
+5906 reiteracion
+5907 fabrica
+5908 espalda
+5909 mejoramiento
+5910 vaupes
+5911 coser
+5912 teniente
+5913 azotar
+5914 encarecimiento
+5915 lema
+5916 identificacion
+5917 cuervo
+5918 abanderar
+5919 jalonar
+5920 guia
+5921 plano
+5922 prima
+5923 visibiliza
+5924 productor
+5925 siembra
+5926 nativo
+5927 tradicion
+5928 vengar
+5929 maiz
+5930 yuca
+5931 optar
+5932 estereotipar
+5933 caracterizacion
+5934 acaparamiento
+5935 tragico
+5936 conectar
+5937 independiente
+5938 indemnizar
+5939 empunar
+5940 incursionar
+5941 parcela
+5942 equivocar
+5943 homosexualidad
+5944 antimilitarista
+5945 signo
+5946 paulatino
+5947 ajonjoli
+5948 plasmar
+5949 vendar
+5950 circulacion
+5951 intermediario
+5952 reclamante
+5953 sabana
+5954 encono
+5955 subsistencia
+5956 enterrar
+5957 miseria
+5958 verificador
+5959 soberania
+5960 morral
+5961 limpiar
+5962 valeroso
+5963 teson
+5964 polo
+5965 rabia
+5966 suicidio
+5967 polvoriento
+5968 victoria
+5969 alojamiento
+5970 mito
+5971 vagen
+5972 minimizar
+5973 exteriorizar
+5974 arraigar
+5975 guacal
+5976 lodazal
+5977 catalizador
+5978 multiplicidad
+5979 urgencia
+5980 ignorar
+5981 negacion
+5982 don
+5983 repuntar
+5984 cuenca
+5985 kilo
+5986 certificar
+5987 contratacion
+5988 ponente
+5989 curul
+5990 fragor
+5991 homogenizacion
+5992 patria
+5993 subjetivo
+5994 rapto
+5995 elago
+5996 notar
+5997 supremo
+5998 asistencial
+5999 emboscada
+6000 ecoturismo
+6001 corinto
+6002 extraditar
+6003 narracion
+6004 destruccion
+6005 enjuiciamiento
+6006 heroe
+6007 fortuito
+6008 emprendimiento
+6009 fracasar
+6010 matriz
+6011 inconveniente
+6012 diversidad
+6013 acentuar
+6014 consumo
+6015 escrito
+6016 personaje
+6017 patrulla
+6018 innumerable
+6019 transitorio
+6020 transcurso
+6021 pnud
+6022 narrativa
+6023 escalofriante
+6024 normatividad
+6025 indirecto
+6026 debatir
+6027 resignar
+6028 brusela
+6029 expectante
+6030 sanar
+6031 sigla
+6032 universitario
+6033 anuc
+6034 piedemonte
+6035 bojaya
+6036 perseverancia
+6037 polarizacion
+6038 reconectar
+6039 extradicion
+6040 ejecutivo
+6041 nombramiento
+6042 empresarial
+6043 hacinar
+6044 cine
+6045 lucir
+6046 muro
+6047 extorsionar
+6048 pared
+6049 intendencia
+6050 idioma
+6051 inculpacion
+6052 contraprestacion
+6053 impactante
+6054 inhumano
+6055 paradojico
+6056 horrible
+6057 disyuntivo
+6058 rebelion
+6059 fracaso
+6060 sorpresa
+6061 parapolitica
+6062 requerimiento
+6063 ideacion
+6064 infrahumano
+6065 publicidad
+6066 madera
+6067 grandeza
+6068 paisaje
+6069 absoluto
+6070 interrogante
+6071 gestionar
+6072 prorrogable
+6073 vallenato
+6074 primario
+6075 minoria
+6076 batalla
+6077 determinacion
+6078 creativo
+6079 felicitar
+6080 ganaderia
+6081 ratificacion
+6082 balear
+6083 afectividad
+6084 tolerar
+6085 degradacion
+6086 complejiza
+6087 abarcar
+6088 interceptar
+6089 reinicio
+6090 remoto
+6091 peligroso
+6092 instante
+6093 depresion
+6094 continente
+6095 canto
+6096 totumo
+6097 cocaina
+6098 talante
+6099 ascenso
+6100 impuesto
+6101 extenso
+6102 reten
+6103 extractivo
+6104 innovar
+6105 ofrendar
+6106 desembocar
+6107 minimizacion
+6108 sonrisa
+6109 cabildeo
+6110 rey
+6111 camuflar
+6112 vicioso
+6113 urgir
+6114 metodologia
+6115 reparticion
+6116 rastro
+6117 elorza
+6118 extraordinario
+6119 tejido
+6120 lactar
+6121 limite
+6122 oculto
+6123 escolaridad
+6124 crucial
+6125 jurisprudencial
+6126 concepcion
+6127 pera
+6128 pijama
+6129 solidarizar
+6130 pacifista
+6131 retejer
+6132 sensibilidad
+6133 duitama
+6134 federacion
+6135 reestablecer
+6136 espontaneidad
+6137 impulsor
+6138 uniforme
+6139 independencia
+6140 alterno
+6141 imaginar
+6142 paramillo
+6143 abundar
+6144 pancarta
+6145 agrupacion
+6146 vigilar
+6147 irrevocable
+6148 compadecer
+6149 orfandad
+6150 luchador
+6151 credibilidad
+6152 fosa
+6153 disponibilidad
+6154 cosecha
+6155 piel
+6156 prostituta
+6157 tesis
+6158 licor
+6159 mensual
+6160 teorico
+6161 sometimiento
+6162 parejo
+6163 metodologico
+6164 invasion
+6165 sustento
+6166 tratado
+6167 honorabilidad
+6168 grato
+6169 idoneo
+6170 proeza
+6171 rehen
+6172 adversario
+6173 tarima
+6174 estandar
+6175 tertulia
