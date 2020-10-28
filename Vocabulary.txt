@@ -13,7 +13,7 @@
 12 sector lgbti
 13 grupo armar
 14 fiscalia general nacion
-15 afrodecendiente
+15 afrodescendiente
 16 registro unico victima
 17 actor armar
 18 persona refugiar
@@ -324,7 +324,7 @@
 323 confrontacion armar
 324 grupo armar posdesmovilizacion
 325 construir paz
-326 consejeria consejeria presidencial consejeria presidencial equidad mujer
+326 consejeria presidencial equidad mujer
 327 embajada suecia
 328 jineth bedoya lima
 329 incorporacion enfoque genero
@@ -612,7 +612,7 @@
 611 accionar paramilitar
 612 participacion proceso
 613 interlocutar
-614 mocipar
+614 emancipar
 615 tejedor paz colombia
 616 lesion personal
 617 sentencia condenatorio
@@ -1200,7 +1200,7 @@
 1199 implementacion ley
 1200 afrocolombianidad
 1201 recapacitacion
-1202 afrodescendiente
+1202 afrodescendencia
 1203 fdim
 1204 sistema justicia
 1205 luis eladio perez
@@ -2462,7 +2462,7 @@
 2461 psicoespiritual
 2462 exguerilleros
 2463 acto
-2464 lbti
+2464 lgbti
 2465 interseccionalidad
 2466 grupo memoria historico
 2467 coomeva
